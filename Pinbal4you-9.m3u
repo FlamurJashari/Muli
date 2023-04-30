@@ -1,0 +1,333 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9c/9c73792d3e85a72f8dacdce09db31c1d.png" group-title="Pinbal4you",NASA-Live
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9rjst4e1GzUkZ2omCBNy3hNYgXP2w3E9hWTX5hyoJYHwRpWpPb0_jsrAdj7KfxE_Q?ext=.ts
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://epg.deinto.com/logos/allchannels/RTK1.png" group-title="Pinbal4you",RTK 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_EohqY6xRie6wAmVNIxdu3yX3V4DFxyZ2skkckCRUklMFkEY0EVjgznxgWVlXuZFI?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/RTK1.png" group-title="Pinbal4you",RTK 1
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8hMhaDaPcQQk2Trjjic9-soOGky58a0iLDUsiN95Glf-CRFfFRi0TsfBtZcIqoIbk?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/21TV.png" group-title="Pinbal4you",RTV 21 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Dz1IhYjp-U7DNJ1_DPLY4p_btJeX99m6iPay4tfqSKr0ODMdSsV3L76UROmfOHfE?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/21TV.png" group-title="Pinbal4you",RTV 21
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_tHoYDw1X5GvUUBZfPuSCyg8UiBhUFq_FLzZo4FpSiGCAxdjDuruoV2tbvqSWZzFw?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/KTV.png" group-title="Pinbal4you",KTV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Ds3D-YX6t-z7cnraaPZHApHe_3nQ_gsJueMPNDfUri7eIxxzzbnkM812uSwaMGr8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/KTV.png" group-title="Pinbal4you",KTV
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_TxBfYhDRFap9CVxZlnqyrC5RWG8CLaoLPZ6xeiRglCx4lz10N_90xqEWSmcpdBsI?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/T7.png" group-title="Pinbal4you",T7 
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9ZamqkpGO44ufDnBpBAwkwzdaURc-PZI1yw5GHoyyPCcsBXvhq9HLk8kQYfPXzvG8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/T7.png" group-title="Pinbal4you",T7 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9ZamqkpGO44ufDnBpBAwkwzdaURc-PZI1yw5GHoyyPCcsBXvhq9HLk8kQYfPXzvG8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/dukagjini.png" group-title="Pinbal4you",Dukagjini TV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8YOTMxvCca62R55vxdkjA_J7gwPynDYUJ2im16Fvh9bL6E6FdJCGETrw-8DXQPkuA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/KlanKosova.png" group-title="Pinbal4you",Klan Kosova HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8E_e7vfQmvUluK4SxFAcWD5y9hmssiFWKwAE_z8qvk7SP1RYfezU34VjAL7zofsU4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/KlanKosova.png" group-title="Pinbal4you",Klan Kosova
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-ss28fTJjje0rDVe7QknHEIlQ8uBeAL7G3WILFemIH6158BkQ-x3HHMfZj6FxCXmo?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/ALATV.png" group-title="Pinbal4you",ATV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8MxCmbCPayOGOrPUc-7ea4ThMX2zjFmq_ZW1OZFSq71BBW_iAQ8nCMR1Zn5KihCjQ?ext=.ts
+#EXTINF:-1 tvg-logo="https://teve1.info/wp-content/uploads/2022/01/Logo-Light-mode-2-test.png" group-title="Pinbal4you",Teve 1
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Xwa-kRQ5JngQ1frJieMpKjc3w7tBtMOCAY2gOacM-xVrKQtpWjuUQb-f7KWeUMIQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kanali10.png" group-title="Pinbal4you",Kanal 10
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk862DLF9UWzYsP9Cd013aPlWcN2Xd8o6mNyzK9sPA00MpHu56_VLTbItLCJbURuEWA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/TCH.png" group-title="Pinbal4you",Top Channel HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_FdHdgEvO30oOZ7d2OlXhT8Hej2ZvAOOyjm-bJHougKjdL6RF_6sxkimQtaPwjNR0?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/TCH.png" group-title="Pinbal4you",Top Channel
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk911ZwN_dDgeg5m7ED-ZSoRYLzK1QQh6quY4dPzUtC3JGcm9b39PX5VMxQR0PS6QP8?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png" group-title="Pinbal4you",TV Klan HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Yk8lUilRhhDHw-0gmLZNqp4trSfO4ZV_3HV-Ox7JKLSvPG1t-pv246ZQThk95uus?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png" group-title="Pinbal4you",TV Klan
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9pDv_-aZsjvvrbLw6S1QEGdK3zxlLOMMybZ2rAC4l3J0hy7yuyYbsGOQUq8lhFQO0?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png" group-title="Pinbal4you",Klan Plus HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9WcdAmBd3jzYXR5tPFEPrrR3dVwZvLvb8_YVkmoKzReuPC9I1QWVL_H25QV0WRg8U?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Pinbal4you",RTSH 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8CGv1d9dGBtcJzwg-BzpOIz1tHo0sblww1ia919RAOoDbVIc0HKFyPLyXP4OLPnLg?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus%20HD.png" group-title="Pinbal4you",Vizion Plus HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8IZWzUwk-xTo7yVjN5S6Yh4M4uXM8jTDvbcZL2uVi6zWprK3Vaqr0eq46Dx0D-CA8?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png" group-title="Pinbal4you",Alsat M
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9WsvnEorS9XvlTswzys9x_PsTNN7lAFcpDBKv30OwM_uhvfVZnqmsTgwRQbcD42m8?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EPISODE.png" group-title="Pinbal4you",Episode HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9ZM2wn63tcxS-GBBULBDIdwIubznzOH-TSB6CE9JJEDDDweFlx9p5vIxjbY_wbwkQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tdc.png" group-title="Pinbal4you",TDC HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9j3GeJbjSutVuWgauitRA01C6RuD3WDeM_V5MHPXzxgJ_3koLVVCWRO11RQGNWSIM?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kanald-drama.png" group-title="Pinbal4you",D Drama HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_vn-Y1GnI3C5RDhH6GDrsoBSl26RgqfO1EhrqUuRJn3CDQ94XguD5nTUrmeT4tGRY?ext=.ts
+#EXTINF:-1 group-title="Pinbal4you",Big Brother ALB 1
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9vX8bxz9yb6M5ESV4dn87Erusz8eYP-CPy1jTDF9Ue7LSrOWV8l18h7ZAeWTBq5MU?ext=.ts
+#EXTINF:-1 group-title="Pinbal4you",Big Brother ALB 2
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9JIYt_i-D84Q6LUL_kXXOBy2wyLyRCqncIA4Jbk4uun8pz0qi0LAPndi3Af0rewhA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xGold1.al.png" group-title="Pinbal4you",Digi Gold 1
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-k146p55ayUZLkoJOcqzcVgV5_uyhsP3RCfjt9R8Zrl2tyd6eZWQWNHUr55M_SWB8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xGold2.al.png" group-title="Pinbal4you",Digi Gold 2
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-B6EGMKA8MngtobWWDXKAuIdPLUa3Lt3bcM4agsyvVtJbuxiEW_ae-WIJGp-L_D2w?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xGold3.al.png" group-title="Pinbal4you",Digi Gold 3
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-H5BVKPAvNCYZs4FWO8DtXrOoBlMpKvxG5_8sOw0IWqNksbN_-5ZGCQwfnhZHeyCk?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xGold4.al.png" group-title="Pinbal4you",Digi Gold 4
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_TEWyWFjbykiRn9HU0_3nO2pFzVSDa10-0S6nw_ipUtjJvqBMl4SAjKQaYD7CQfzY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbaksion.png" group-title="Pinbal4you",Film Aksion HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_LZLfYEC4YjubBzbA96Ry8aHLOrdMpS27r83ihtE0KOq-U5_LmNAY1oCqJFaCtv8M?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbfamily.png" group-title="Pinbal4you",Film Family HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9_Rdj3Rrs0wSQgqwSu1SkY5jg00FgA5vAuMuyU_vJ9hy_Fsi0f5iz3tHqOmvo4RJQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/FilmGold.al.png" group-title="Pinbal4you",Film Gold HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9ZQQmwBlR1PScWWCdCwLnuzgIfyscA0q0G2WGBeKg5oolKEfuoCwVMG2JPFICrmAg?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/FilmMax.al.png" group-title="Pinbal4you",Film Max HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8NxOvVNCYJ7mz5y0TREYQSlUEdKerPY-h_88PfTEuO7N7sUhxg3ePoJxP4w0rDBFk?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbhits.png" group-title="Pinbal4you",Film Hits HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8zTNvLFjWb7ArJQP2STRaVhqUhXlXe5Z4jXCPhDuY5jlTJDVxxTnuDRKSgGhHw83g?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbthriller.png" group-title="Pinbal4you",Film Thriller
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_tVZrR61LMO-eqSO-1Bi85MA15DT9rH1N89_HbtXB-dr7wCxDu9yoTfjX2BAbu2RM?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbkomedi.png" group-title="Pinbal4you",Film Komedi
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9aBXnlGjq7-ei5sq-NT-8plmX5ZMT4tq3FknP9CbPGZs2JkdIORwnYtJv6K2mejU8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbdrame.png" group-title="Pinbal4you",Film Dramë
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-_vo656IZ9fVXf5wmDHlDY-ZeAuk_MQ9plJH36jjI3tPpz7iseATt79wvNiLT7jao?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/digitalbautor.png" group-title="Pinbal4you",Film Autor
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9QNFRVsDndlY2mHN6PkYM_n0Fad5SwWkqmFbDluVdrfJ3ZsuBPiVqBWNOHj0fXJQI?ext=.ts
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f1/f137c7421b392d8f15d18fe6fbe02da2.png" group-title="Pinbal4you",Cinema 1
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8nJv04_IObcE77lPevbY2ZHKaaZx3dh1BuGdTHPpi0iru6S-QiG5vMcLBjMIsrofw?ext=.ts
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f1/f137c7421b392d8f15d18fe6fbe02da2.png" group-title="Pinbal4you",Cinema 2
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9EdB7qegqXstDu_65wUoHzEcUXXAimJ376VgDxyo78KcJupgYoUkjmN1bgQ-VFkI8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/filmarthouse.png" group-title="Pinbal4you",FilmboxArthouse
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8brDD4r6j124tUNk9xHJj0bnKpmzxzQWwLfhSsz1bXcjKhRKkg2MYXaOOl7p9T0qY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/filmextra.png" group-title="Pinbal4you",FilmboxExtra
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8M42V3UUeVrPOBDuy9Sk2qEYFQ75Sa2CmtB7tSzvosdFgBUHfoxgelIZjkUEhrz8c?ext=.ts
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/FILMBOX_PLUS.png" group-title="Pinbal4you",FilmboxPlus
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_0q4IxdCbZSx83WV-lUV2qxgN1aOdCFVkysqv_CsqMvEoURz7ngySU6L7QFUlTit8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/filmpremium.png" group-title="Pinbal4you",FilmboxPremium
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8Ox8uvna9EBAju-1pNVrImRKSp-hzf4iZUKhY1D1nXiwGjdgRruZ7wPa-6MCzjiXY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/fox.png" group-title="Pinbal4you",FOX
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_OgeN8YARNTBr43hp_i-n-n3bXY31f9stAby_G3xLp6CsHRZv9_sZvFl9yPVfaXPQ?ext=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Pinbal4you",Fox Movies
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-MhUzPn3gztD5Rp64wrq4JUbkkeW8Z-c4r9cz7-7KgcLqa5qTCVG39yDq_uxqSJWo?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/foxcrime.png" group-title="Pinbal4you",Fox Crime
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk86ciOXNP1eSSZRp7iKkXM_I_6iJiHqz_8cyfoFUpaBwHWSOfAtDyTTAvHfrLoe_WY?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/FOX%20Life.png" group-title="Pinbal4you",Fox Life
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8i1MKeo0SAC6C2pWCrbGRNFZw9OngiU7WlVu1SZ717McT0ZuJLWheTwNfdxOAsAmY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOne1.al.png" group-title="Pinbal4you",Tele One 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_hJykc1u1-xe_ZlBcrRogyf8Vxlr-1YUFZHIWlFTBcQ1HYXt8SqWvzShmjo8TmL1Y?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOne1.al.png" group-title="Pinbal4you",Tele One 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9g62M7pGh8J5VXwaTyr5H0MLvjUwrVWJo7eia2PgwHHxWhr1unGn9WH7NxLBLRUHU?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOne1.al.png" group-title="Pinbal4you",Tele One 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-2Aw7QFBhmawrwoFuLdADBNXjocWSy5f2UAaYsSscaXnWGugDa5YGf0ZGFEN1A9tk?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOne1.al.png" group-title="Pinbal4you",Tele One 4 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9R1Kahbnzscku3UyIqxSoTTbQBlAQteLYr8rCqvXpcZpjO711jMezqvvkexFyQRPs?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOne1.al.png" group-title="Pinbal4you",Tele One 5 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9zxHZ70iuSdGJFWX5M5uLjdHx3roBTYYEA0gtml8WsqBQoN5_CmEfwmRobeYuyJuU?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOne1.al.png" group-title="Pinbal4you",Tele One 6 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-6z1UvbNAIRgN-uBNCH8A_fdjBERMuA3eweDjrPYnMxv5FTiYGW_PCfkO2DjpMsUA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneAksion.al.png" group-title="Pinbal4you",Tele One Aksion HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_TfmYbIVN6syd2n5v8cIhNAHeUHKdcMAkZUdeP_WSmAHtfVmvTZdm0AQA9jsld1O4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneAventure.al.png" group-title="Pinbal4you",Tele One Aventure HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_1_ArQ9y9y27IcFk5YePOJfQQh8uCA7N_7YAYmuShlSj3BRTuAyFaW1jS0NHHEY3o?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneDrama.al.png" group-title="Pinbal4you",Tele One Drama HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8mtCaj2SiEioZD0AD5rPtuaD841BNRtMZDlaR5XCoObO9wLUkESz3pw1eGide2QAc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneThriller.al.png" group-title="Pinbal4you",Tele One Thriller HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8xIzOtl7ZdrwUbUrNlG3Q9HtD_2SRt4LwwQvt1PjgaMdFcy_K-qiwUyjaNq_5dW8I?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneCrime.al.png" group-title="Pinbal4you",Tele One Crime HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk95Zjjgi5U2C9lW4QFoSGk0pB_rGnP7Z7K1oTHKYywuj8zpPpuF3qN5IjZf2DRMtRQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneFantasy.al.png" group-title="Pinbal4you",Tele One Fantasy HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk95PWjdjs-KSU32OrCJYny5KSXU_rtHsENnIhTg9BFXlgLsb8hXdRrGXzz-C0kTOS0?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneEpik.al.png" group-title="Pinbal4you",Tele One Epik HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9Z1zFkAjjVRzURLQP9xwq1rce3GrFt8uXF0Vsm9bzmBxhBz-b7RtQgXZrIad3Rc7o?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneGoldCollection.al.png" group-title="Pinbal4you",Tele One Gold Collection HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8NL6UY9fIIeYvH5i7OOaOTuJPCtsSYdlYDxSMqP8o9T2_s-joWl4LkfdAAKOimXnQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Aksion 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_vEMKkZQBABYLp1dRLPkEHjyPWwTaLMq_NhYhUhQ8NVSg3ozxWpz7i4p5dMChN91g?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Aksion 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-OBpm6jwcgbJyABCT4uv-nHqZ3PvUiQsKh7L0yCu3I0oAlGcpxC15myLaqa_cryMQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Aksion 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_i7Iq1vWj6Su4vcUKWGVmYJflFh9tTlUvqgOGPdS8nz-zIvw2XLLa58KvP3MSANDU?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Avanture HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9j-YVPu4clnd4yksd5Msuw6oQkQZQdiAlk4zLhPi9Z9V1fRu9fV4H9XoHbUD6AFcg?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Aziatik HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8aqGDtlP1v-ie0go4YcrzoohN8vs5-HHp9rQ14RTHrkPdixET855vMTE8Fecp5BzM?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Drame HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-o9ML1oVAe2NtbG4-earUK_2ILXbFFgNfxpEvQwg6FTzAjwce3ao80t6ZfbbTCeDA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xFilma24.al.png" group-title="Pinbal4you",Filma24 Fantashkence HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9zYhTomGLdNujg2rCtV_cAS6UqyxJdc6NqTonHVFV9MMhPHxzFtTV2K7En2mQNYB0?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xPremiere1.al.png" group-title="Pinbal4you",E Premier 1
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk98gyJ34YPakfY6Egz8Y8Y6UPQTM4NGMS2fxOAjM297hyebk3bGgesb9iOUkuGSd1s?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xPremiere2.al.png" group-title="Pinbal4you",E Premier 2
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8d1Ovwz4Z8AsYklFiRwqUPyLQN5tOUm6fJzLWMvwMLGBkMTBX3ABzbwsWpqGjRod4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/xPremiere3.al.png" group-title="Pinbal4you",E Premier 3
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_zjDkTbXq7FrHbHD_nAmagcilvDIDLuMVXkMymiKfUiMDcoA5tmBzNfzRC7YlWMl8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/hbo.png" group-title="Pinbal4you",HBO
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8X8e9AP1ghz0JvcV5Fxsh0JZqy5LnRz85a8c_DnPa5HbL1esbwwqGYyKwwE59uxmc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/hbo2.png" group-title="Pinbal4you",HBO 2
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-O89_5igcpFSbF3LrtbrwHoDeAS0GkSR0R_lEVfvS8ii6NJqXN65KJSjbmS8azWvA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/hbo3.png" group-title="Pinbal4you",HBO 3
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_ww1PquGwGAZ_IPE7Id3PllSsXodTO4oCfQgUskr8SDgGFHjTf5re49uXo0rChzKE?ext=.ts
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pickbox_logo_new.png" group-title="Pinbal4you",Pickbox TV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_ww1PquGwGAZ_IPE7Id3PllSsXodTO4oCfQgUskr8SDgGFHjTf5re49uXo0rChzKE?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/artkino1.png" group-title="Pinbal4you",A Kino 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-De1Ii75cgUjFJBBV0iZzL5c5gDmvLQHA3euuRh2wyOEhFfkVPf4k3dCSQWHnKL00?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/artkino2.png" group-title="Pinbal4you",A Kino 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8T84X9tLWXPm4ynij2c2UPprYzONjVpnuf5-duyAmNvOzXuDPI7S4HB3wkDZa9ttk?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/artkino3.png" group-title="Pinbal4you",A Kino 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8dL1Sw_5JcI7GLxSgCvWePr9v_L-SCkKM4FfhJJehH7PwkHondXhIxiMP5izdeNOs?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringaction.png" group-title="Pinbal4you",Tring Action HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9x-r1CGDkLKwiKHp-Cc2GNCi-FFqZEFV2Khqp5meqrwbGgWCNVa8IWQJndJ0gR3NM?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringjolly.png" group-title="Pinbal4you",Tring Jolly HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9x-r1CGDkLKwiKHp-Cc2GNCi-FFqZEFV2Khqp5meqrwbGgWCNVa8IWQJndJ0gR3NM?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tring3.png" group-title="Pinbal4you",Tring 3 Plus
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9QGkhD_62WU69SoMHHZMUJF06nmk6vZkyTuACC6uKSXUmF4vyqm2R8aP6SRyQ_oJ8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringlife.png" group-title="Pinbal4you",Tring Life
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_HorKSGqbDdl98vGQsYDbR9I6oniwcFtp3GDzcEv4D2Zpb4Bq6CSlZ6dLV_XYNRgc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringsuper.png" group-title="Pinbal4you",Tring Super HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8ZTrABy6M5MhUrMeaN6v9PTJglqC55YnxxwutY1r3RkqVxc49uL0p6rX4tEH8YTcQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringfamily.png" group-title="Pinbal4you",Tring Family HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9CCgs_iLKTBJa1_GRopU0huy9FAaGtGpQZce9HcfyPSzC-cECOqNdgsIAk2bYd_GY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringfantasy.png" group-title="Pinbal4you",Tring Fantasy
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-avr4v8iCVE3gmwUr4a-fww7lzqGPqU5Vqt3e783Z5aWdQcU_2CTX1Wx0Nk9PTR2o?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/skyaksion.png" group-title="Pinbal4you",Sky Aksion
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_obayqPN2pFQNhb_oJCsX5sCIg_8A2LOLjnKuLlnHOlq5wclmWCvQW5i_EQ7vR1fY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/skymax.png" group-title="Pinbal4you",Sky Max
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-iqKSiREkrXBLFrytnOzTgalyEflxnAeOoRK0oMpfHXA6t85U3vQU81B8bMEU9BqM?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/skycomedy.png" group-title="Pinbal4you",Sky Komedi
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-y6rQmOD1w8YxctVXs4qfHW3S9SOoxMb8oYS4QyUs0NwjNNF5HoVeaB-c_s3auTuA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/skynovela.png" group-title="Pinbal4you",Sky Novela
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-WwQzzMwYIkK8y1tmDX21DEYGvxPkbYlF58xQFPRqUTVbA4GKQESafetOApbFreEQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/skydrame.png" group-title="Pinbal4you",Sky Drame
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9WZ_YoIQiK_Vg2yAiNspoWZULDK0qwHAdD5kG7JvcQAYLSF1TmKIfTCtAbH-B0h3M?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/EXPLORERSHKENCE.png" group-title="Pinbal4you",Explorer Shkence
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9NpULAeBaFzQp-ZjwICs5TkOcGfEYFiECJTX-nHe0FhwTyJ5u-iW9ccHl1PLPmHzA?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/EXPLORERNATYRA.png" group-title="Pinbal4you",Explorer Natyra
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk--N7s332bihgq1Fn6L7WgX8nEjgqetCkUCa55L-O9-s2uBU-tsDROfDttd8AVcHSo?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/EXPLORERHISTORI.png" group-title="Pinbal4you",Explorer History
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9oGXOSTet-wNnWdOdtsarwtIy6uq74urHIJ-Ys7nddcbHsWG2tcElnYlJ3KPVM5nA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringworld.png" group-title="Pinbal4you",Tring World
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-ZYlQ8igXEp03z5_-t8qd2VXnxCO3S72OXBa7hL_12AZP1ND41ewKKA1V6JV-R2Uo?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringplanet.png" group-title="Pinbal4you",Tring Planet HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_1yv2-C1rco1EkXbfC6ON-ed_W9ZCMJkQLrAG0_pGRuLhQt7t0lA1cNt3S4I1Eo88?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png" group-title="Pinbal4you",Tring History
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8CHArZyVT9KaI_1wPj8Kv3Fzq0X2ttDAXhYxr5AiL5FHTM6knC7aKekVMiEuWvvrg?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/ARTDOKU.png" group-title="Pinbal4you",A Doku 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9vyTFuRH1OBwUiMyE2Hlv6Y3sdou3QmJNoKmSWpzFspIKfdtFXJpzJoKTG7kxRgPY?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/ARTDOKU.png" group-title="Pinbal4you",A Doku 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8mdSlzJwStgMK8lL7POyJwydLRZshghPcttmD5lgi95S36X3NQOyq9QZ5qKE_ZkVo?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/NATIONALGEOGRAPHIC.png" group-title="Pinbal4you",National Geographic HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Mi8QEAyToNknRcGIbzgWsAtwq1N7WPnq0qvR_GjJfBwnksIvNybZworxXTrsiX2U?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Discovery%20Channel.png" group-title="Pinbal4you",GEO HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9104AhvwK0RwUY1cUgR3hGshXbxhs_6uYw14oM8xJx28lucdSt6BW5mqadxnj4Kp4?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Discovery%20Channel.png" group-title="Pinbal4you",Galaxy HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9nl9XZWbLGPhKgXTWUpKgkrhO9IWWNZZo6y7K1H8FV9EACWeaDl2Mqs0UCw4UA6Ek?ext=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png" group-title="Pinbal4you",BangBang
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_BbUOgvZmqj7V04aWGcwpOUndEkDMtBDHKDfS5Uuh9Gpwd-fkVD9T36SJaFF2B6hg?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/CUFO.png" group-title="Pinbal4you",Çufo
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9fPZ6Q2U7hYbBzz13as1ueAmHEL7_cjmXBNNOIQYMVOReSeABDtnWtMgcHWdztEyA?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/TRINGTRING.png" group-title="Pinbal4you",Tring Tring
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9W_m_4vO4l83we_P8CZdOg6SgoxSY6615Puq-9onBzBb-JwmA9etMsMEga3JsvEtw?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/TRINGKIDS.png" group-title="Pinbal4you",Tring Kids
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-cnHIoyPD5aMcjtcUX3bMC3GlA0O_8NofkllsxdDIPc8iH6X6jtdb0v0pWoUIQ-iw?ext=.ts
+#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/ALBANIA/TIPTV.png" group-title="Pinbal4you",Tip TV
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-dGTIkb4CJzHye9ajn-PFG9uKlmYjwHwCVbSiQWx6FYxEyT4khlBpE0zWdfFoUDYQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Sofia.png" group-title="Pinbal4you",Sofia HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_f_q96bLaCWpnG9UnAZF_SDTwvTD9iuPeJm1dgsuFtOaSc1XZ9xcaRInPP4VqKJlg?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Pinbal4you",Tele One Tomy&Jerry HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-SiS5m0HWa7_blotvBy-I0dyuto2vyjJXzQ12MohOhQYQ3RM_HyKGLNiQhAw-5i9k?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/TeleOneGags.al.png" group-title="Pinbal4you",Tele One Gags
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9bpZPxHHmBIXV8c5P03z4MqZfCyqe53uQfzYMf0Q2YJPle85h6_WGEhtSJ69s1_-U?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/xcksh.png" group-title="Pinbal4you",Çka Ka shpija HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8xIfRTWk7gFSNpbefjZ8lcBJm2vj3qMQqsRyu_-NbQJouNo7o1T8F8_UW-u31SDck?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/xhumor.png" group-title="Pinbal4you",Cima
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-WXdjUOWVs2ukVbJC3rPQFEHlUhQFr6Fni_QwMa7z55IIGtYKOxoRbH7BtYJEtXBo?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/xstupcat.png" group-title="Pinbal4you",Stupcat Egjeli
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9hTeTdLh9qDlOZ6JEmuilGpY5hC0PUnMxKcZLi3X9rIqInmAtI9fmZhs6k4WWk88w?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Pinbal4you",Mr Bean
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_iuEXkOLEdKMiqSH-HOWO4jgm233r1n9767xR5D6LcxXhHeS0oCs07CxX1q12jSGo?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/zicotv.png" group-title="Pinbal4you",Zico TV
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-gkdtyY_Nzd-_KDcXPadFhP1oxz7GjjMj5zZLgvFn4Vr28lOcpXUXN5QhHEyOfJqI?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/ontv.png" group-title="Pinbal4you",ON TV
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_C96xulw1HYMV8I1rcGJBItbDI8iHg9y5HPJQNv6qXOph-1agAht3rfXFFWEc1bX8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/21TVplus.png" group-title="Pinbal4you",21 Plus HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk92DGGB39firTvb0MDSta10Bqq8Wlu-IxLfgEWDKGDYPCiZfXGO7e5Rc5YRW8XEjro?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/mtv.png" group-title="Pinbal4you",MTV Kosova
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8LWczO1kGWYXNglAf7ro_1wdDLjuoydxjgOuv6o3_2jLPsiRdP-Ojw288ueBR-_K8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/bbfmusic.png" group-title="Pinbal4you",Bbf Music
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8ktUWU3HMJUUGFo4CokzPS2bDWR1CmRnFEuHJgtORpXG0OwAYPnExv4AbygaBQt28?ext=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089px-MTV_Hits_2017_logo.svg.png" group-title="Pinbal4you",MTV Hits
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8H0ZUy3koSpQ_nehbVbl2i4gxJ8LOXLVgYKWkuhK8BCAmnWdJvG07hWVcBMES3IQc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/albswiss.png" group-title="Pinbal4you",Spin TV
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_mDq2bC5N0AbXzum3zBRKqyVfjd8FKosdLkTD38CWbDKNxzhb_NhOB9HHw773lS0w?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/rtvfontana.png" group-title="Pinbal4you",RTV Fontana HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9qsH_64zZFF4sxgHAKuKZzclrBR9qeLUM6dJewPimXA8SPh-VY45_5ShCkQKsoMLA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/FolkPlus.al.png" group-title="Pinbal4you",Folk
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_neV2JhAfj8I9d6taUs7cOB1eeNSqZXYE1dV-_EDxQN76XQ0NvL4BzQt9gzxWWmkc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/amoltv.png" group-title="Pinbal4you",AMOL TV
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_nSPczOhRFDWjpXxSgxuZSjyWuKaampBz1lu4ooX1rBcO8jVUTH84qxC5dSUrV3d8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tvistogu.png" group-title="Pinbal4you",Istogu Channel HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8IwkHpmD8MFAHxtQRAFxv5Om-0Qs3e57_See8YTgHzTFsRQMq8I2fg5Nt0WIUCNNI?ext=.ts
+#EXTINF:-1 tvg-logo="http://shqiponja.tv/platform/ShqiponjaMuzike.al.png" group-title="Pinbal4you",Tele One Music Shqip
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-qsIVV_h6YZPUWMnM7fSfH5kalPbv1OlGRMl8IM9sVbOe9La1F14UlEOZbwXGBObs?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport1.png" group-title="Pinbal4you",Super Sport 1 SD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Y37q0CPMnh2Ep8_qei6_iCoacMWHq0S6ShkjmeP2LdYrwpPSkbeNWMXzIBp_VHC4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport1.png" group-title="Pinbal4you",Super Sport 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_Nl0yMWhLnJ9MVhAfl85VokTv0hFrZpnVpm_pHFlLdEDHnqKR4DIT7dVGVhI0uPEE?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport2.png" group-title="Pinbal4you",Super Sport 2 SD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk83zOYsWz8j4ztOcj0TkSCnFUq4Cbyh5Wk14TqfI9caOfGEPqcsBBLYg4swJ0qZJmU?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport2.png" group-title="Pinbal4you",Super Sport 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9lxpLmm5Ki0Upu8tLbPFtyvi5WuYYGvD5GkyglzfPYecAxYcx9q0IScQOBAe4ZKJY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport3.png" group-title="Pinbal4you",Super Sport 3 SD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9CTAHwldM2uZPHgaaAt0OEbZuQ6oFkbZGkRkJs-A6HF4rl1QeEh_EmOaMW1HSD1iE?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport3.png" group-title="Pinbal4you",Super Sport 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_0hKFu1ostFtrRM66nAN36KWSp-rL1UeflyxRE7kF-MYuDVuLNdDp5wuadTD3wOz4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport4.png" group-title="Pinbal4you",Super Sport 4 SD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-AlqTmwzhnZrhAuVbkqWTGUCb4zzEDniwCKkp4hUR5iESvSjRFVjMrQPJaWmTum-w?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport4.png" group-title="Pinbal4you",Super Sport 4 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_7VPz-aBbvCBnWNe4IPyzf9GVblLdn7bxUXhXVCFprSYkJiuLF2PUXWAFGL60lzaQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/supersport5.png" group-title="Pinbal4you",Super Sport 5 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9EU7ZovU4UEwgkBHOS8KisjV7Oq5iMen0lvtNyABj-Xxisl6Z6639SYdGGsg6fyTs?ext=.ts
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png" group-title="Pinbal4you",Tring Sport News HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_jyf_AZ5wJWbJjUphi_4QAtmJc2iTjibA0qEcHlmjALdK3NSQSIB7529AfRTzoumU?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringsport1.png" group-title="Pinbal4you",Tring Sport 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-nWIDu6M4_MluW_lk44Lh3C4m_et4fV5XZiYKK4pz8YN4OJ3HV5xoY1BVC0UDnt60?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringsport2.png" group-title="Pinbal4you",Tring Sport 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8LvLWcu3sGtNmh8POKuiExvUay3EDQPqs1P6PhGbJ4YHfL_mYritExa-V_TEBS_wo?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringsport3.png" group-title="Pinbal4you",Tring Sport 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk--BMBWhGZDERGtVax5Hq68bbNYcvcH6o0Jan1JL-P5T5slw7z4jNmwatgHpTVHTbE?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/tringsport4.png" group-title="Pinbal4you",Tring Sport 4 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_i8v1GhXP6hhUAMv-ceBOQrAgUD8avH3iLIvbBsxYpQG1TFRU3qwt7UnA5XfNlXdc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kujtesasport1.png" group-title="Pinbal4you",K Sport 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk90VubwLJ5utNW8Ph9reAdxHimblYWWO6kPGU-QR9jbsVr-KZAARlB6xXuzdqBcxxw?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kujtesasport2.png" group-title="Pinbal4you",K Sport 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8MJrWdvM2LMcBMOaEAZEMu6RBjtIf_5yoEqx3zAEsGrhlDWMHqmtohpiI2F_xCuEc?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kujtesasport3.png" group-title="Pinbal4you",K Sport 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk90V_6qv52lTNQfxKL5flws2HloFl6XrI8qfG_oR2WE5w0Xxm6lKeAG2UOph5VK_qA?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kujtesasport4.png" group-title="Pinbal4you",K Sport 4 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9O4muOf_cXnyHO52_y6hxSye_f4LNv5uQ9WhPvOhD4YDkTS7xAjl3qjxj0wKjBxO4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/kujtesasport5.png" group-title="Pinbal4you",K Sport 5 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-UvhZ7gb_DU4Nt8L-92BbD_NR2K0LgUIbUFatvm1tpYNPu7tOv3hKRXaz4YnypY_Q?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/ArtSport1.al.png" group-title="Pinbal4you",A Sport 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9hiyAgmIYpcuh1aJtxm_bJ2dbQwr7adAVwAf9kokT4Up1KbHN3IfSc8PfwBOOw0Hg?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/ArtSport2.al.png" group-title="Pinbal4you",A Sport 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8Cg-yzDrRfzLLwipGEuqEpn6OG4AVQmJPfTrVL6PbwJ7nEyPU8aR4d2p_q7pGkRKQ?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/ArtSport3.al.png" group-title="Pinbal4you",A Sport 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk--D1LepNEk8m-7tNrNcgxuHwD99frrZW38f-z05MP894sh4W2ZwaGVgfSpkDXL_WY?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/ArtSport4.al.png" group-title="Pinbal4you",A Sport 4 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9DjrFeKtd5nsN0yN3rLi43ec-Tb8lmy68cVawHCZqbVoZ-j9AU6BI5hxhdb-PPRF4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/ArtSport5.al.png" group-title="Pinbal4you",A Sport 5 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8NPLX3Oo3Meh2bMoBD8GOu0POz7BKn3oqkl3We1uowsMbRJgrg3e5oa5Q6tm-b-Q4?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/ArtSport6.al.png" group-title="Pinbal4you",A Sport 6 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_REB4Nn37QGEOtriqhCB4Gz5iczbhNhzsKRIsEvEORWdI3wiyTWW8qjTvgOIOHbfs?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/Oversport.png" group-title="Pinbal4you",OverSport 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8g4SrtaH8RIukloWyf1GNA-HWKB3BVOEd0vMA21voCKNPPclXBFv4fg0qy8N48gJ8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/Oversport.png" group-title="Pinbal4you",OverSport 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9NBvarfHfSCSVxBMgWVcu2rHmO7o9zEtfC6kq4R2apeYbGDm7Yem_hm5IyTB8--7U?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/Oversport.png" group-title="Pinbal4you",OverSport 3 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-esfpCXxkb-cbD8kkFQ54H3URoMcLhJtIYUdutSwIxuAi3GPaVPEsFFNeTwPRE1z8?ext=.ts
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/al/Oversport.png" group-title="Pinbal4you",OverSport 4 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-i9pd5jpIRZvpovQZFNHaCjmeIF-A1cx5jkNhh_InFEhnHt5iJ0HfbJm9E5H6HB2U?ext=.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rI4MzURW7_OTMy2FTgoLcVYEIXhJaRjs9gWjh1l8K5MNo6FYFCDpQRNJJL_hGiGQC_s" group-title="Pinbal4you",DAZN 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk88UGwYuVwAuJH0va4pv_EQ13UcSJs-cFE_UbhjP6KiainQZZVVM9o2aZeuA8JciLI?ext=.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rI4MzURW7_OTMy2FTgoLcVYEIXhJaRjs9gWjh1l8K5MNo6FYFCDpQRNJJL_hGiGQC_s" group-title="Pinbal4you",DAZN 2 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9mebBRIl57OqVsWYyLbnqbAtpAVwChHJ1xyXLcloL-lJ5fZQB7nOrubbJgmTJHw8A?ext=.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Pinbal4you",TRT 1 HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9kY6XXKZkKAdQkxLmhCRiz1QKkMaa9-NMIx_1cBeKxUhqbpR8AgwGvfKQauVHwptw?ext=.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="Pinbal4you",Show TV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk-O2Vk3sNZObbO4vUZv8eFuLudgbibtEIIMr8lSU0p0gd3t2M9NpS9h5ERXs4fdTS8?ext=.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="Pinbal4you",Star TV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8rudrMny42y5l0vziG4XR2PyTn4np7iN9cm9SIHPRWzrpqIGCm3h1ALTiHGjxXmlE?ext=.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/Fox.tr.png" group-title="Pinbal4you",FOX TV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk8izoGbQ2CJnTXN7eAP2JLG6iIHsSBo2KMrpGmSeGGz8fEUHzH1Hk24WrewIlVFGKg?ext=.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ATV.tr.png" group-title="Pinbal4you",ATV HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk9Mjw9RJI-WJSvczXO_5NtXQfk6Y9nkm7xEX3vbNsimeeVy3_QrEFcWQdU6Z5N1VPc?ext=.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Pinbal4you",Kanal D HD
+http://pinbal4you.com:5436/play/IRW0uacxyIwfvPin4RxUL_0V-9vO3Yq5fTqaCUIjfk_4hvaab1ckd3sy09k-DPRCDOl91JWgtG5hAKWmTSwAS8druH8_uLYY-tZGkskuePo?ext=.ts
