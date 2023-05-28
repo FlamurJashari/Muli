@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="Live: Turkey",TRT 1 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14230
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="Live: Turkey",TRT 1 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/10008
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="https://picon-13398.kxcdn.com/trt1tr.jpg" group-title="Live: Turkey",TRT 1 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5121
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/atvhdtr.jpg" group-title="Live: Turkey",ATV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14221
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD TR" tvg-logo="https://picon-13398.kxcdn.com/atvhdtr.jpg" group-title="Live: Turkey",ATV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5125
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg" group-title="Live: Turkey",ATV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/10010
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="Live: Turkey",Star TV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14223
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="Live: Turkey",Star TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5126
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="Live: Turkey",Star TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/10009
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="Live: Turkey",Show TV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14226
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="Live: Turkey",Show TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5127
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D FHD TR" tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="Live: Turkey",KANAL D FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14222
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D TR" tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="Live: Turkey",KANAL D TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5124
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX FHD TR" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Turkey",FOX FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14224
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Turkey",FOX TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5128
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="Live: Turkey",Beyaz TV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14229
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="Live: Turkey",Beyaz TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5137
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="Live: Turkey",TV8 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14225
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="Live: Turkey",TV8 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5129
+#EXTINF:-1 tvg-name="TV8 Int FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="Live: Turkey",TV8 Int FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5154
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="Live: Turkey",TV 8.5 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14436
+#EXTINF:-1 tvg-name="TRT 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trt2tr.jpg" group-title="Live: Turkey",TRT 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/27124
+#EXTINF:-1 tvg-name="TRT 3 Sport TR" tvg-logo="https://picon-13398.kxcdn.com/trt3sporttr.jpg" group-title="Live: Turkey",TRT 3 Sport TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/27125
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtbelgeselhdtr.jpg" group-title="Live: Turkey",TRT Belgesel FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14231
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://picon-13398.kxcdn.com/trtbelgeselhdtr.jpg" group-title="Live: Turkey",TRT Belgesel TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5145
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World HD TR" tvg-logo="https://picon-13398.kxcdn.com/trtworld.jpg" group-title="Live: Turkey",TRT World HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17297
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World TR" tvg-logo="https://picon-13398.kxcdn.com/trtworld.jpg" group-title="Live: Turkey",TRT World TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/27537
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="Live: Turkey",TRT Çocuk TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5123
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtcocuktr.jpg" group-title="Live: Turkey",TRT Çocuk FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/116744
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik TR" tvg-logo="https://picon-13398.kxcdn.com/trtmusziktr.jpg" group-title="Live: Turkey",TRT Müzik TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5171
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk TR" tvg-logo="https://picon-13398.kxcdn.com/trtturk.jpg" group-title="Live: Turkey",TRT Türk TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17321
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Live: Turkey",TRT Spor FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14241
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Live: Turkey",TRT Spor TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5122
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TRT Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="Live: Turkey",TRT Spor 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/29862
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="Show Max TR" tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="Live: Turkey",Show Max TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/28425
+#EXTINF:-1 tvg-name="Show Turk FHD TR" tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="Live: Turkey",Show Turk FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/10012
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="Live: Turkey",KANAL 7 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14227
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 TR" tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="Live: Turkey",KANAL 7 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5131
+#EXTINF:-1 tvg-name="KANAL 7 Avrupa TR" tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="Live: Turkey",KANAL 7 Avrupa TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18265
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="Live: Turkey",A Haber FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14232
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="Live: Turkey",A Haber TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5150
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Habertürk HD TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="Live: Turkey",Habertürk HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14235
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK HD TR" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="Live: Turkey",CNN TÜRK HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14234
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK TR" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="Live: Turkey",CNN TÜRK TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5149
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="Live: Turkey",TV 100 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/28201
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="Live: Turkey",Ülke TV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14237
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="Live: Turkey",Ülke TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5144
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="Live: Turkey",NTV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14233
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://picon-13398.kxcdn.com/ntvhdtr.jpg" group-title="Live: Turkey",NTV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5134
+#EXTINF:-1 tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="Live: Turkey",Bloomberg HT TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18205
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="Discovery Channel FHD TR" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Turkey",Discovery Channel FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5164
+#EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="Discovery Science FHD TR" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: Turkey",Discovery Science FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5163
+#EXTINF:-1 tvg-name="Investigation Discovery TR" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscovery.jpg" group-title="Live: Turkey",Investigation Discovery TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/27018
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-name="National Geographic FHD TR" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Turkey",National Geographic FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5165
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="National Geographic Wild HD TR" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Turkey",National Geographic Wild HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/12765
+#EXTINF:-1 tvg-name="DMAX HD TR" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Turkey",DMAX HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/23618
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Animal Planet FHD TR" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Turkey",Animal Planet FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5152
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Animal Planet TR" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="Live: Turkey",Animal Planet TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/27126
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-name="BBC Earth TR" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: Turkey",BBC Earth TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18330
+#EXTINF:-1 tvg-id="FoxCrime.tr" tvg-name="FOX Crime HD TR" tvg-logo="https://picon-13398.kxcdn.com/foxcrimehd.jpg" group-title="Live: Turkey",FOX Crime HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18209
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="History HD TR" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Turkey",History HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18329
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TR" tvg-logo="https://picon-13398.kxcdn.com/yabantr.jpg" group-title="Live: Turkey",Yaban TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18207
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Turkey",TLC TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18208
+#EXTINF:-1 tvg-id="24Kitchen.tr" tvg-name="24 Kitchen HD TR" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg" group-title="Live: Turkey",24 Kitchen HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/29047
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Baby TV TR" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Turkey",Baby TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19621
+#EXTINF:-1 tvg-name="CBeebies HD TR" tvg-logo="https://picon-13398.kxcdn.com/cbeebies.jpg" group-title="Live: Turkey",CBeebies HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/22982
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network TR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Turkey",Cartoon Network TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5138
+#EXTINF:-1 tvg-name="Disney Junior FHD TR" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Live: Turkey",Disney Junior FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17809
+#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="minikaGO TR" tvg-logo="https://picon-13398.kxcdn.com/minikagotr.jpg" group-title="Live: Turkey",minikaGO TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5139
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="minikaCocuk TR" tvg-logo="https://picon-13398.kxcdn.com/minikacocuktr.jpg" group-title="Live: Turkey",minikaCocuk TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5116
+#EXTINF:-1 tvg-name="Nick Jr. TR" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Turkey",Nick Jr. TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19609
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Disney Channel HD TR" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Turkey",Disney Channel HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5172
+#EXTINF:-1 tvg-id="DaVinciLearning.tr" tvg-name="Da Vinci Learning HD TR" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Live: Turkey",Da Vinci Learning HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5141
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Live: Turkey",Tivibu Spor FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/12755
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Live: Turkey",Tivibu Spor 2 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/12756
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Live: Turkey",Tivibu Spor 3 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15736
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Live: Turkey",A Spor FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14239
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Live: Turkey",A Spor TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5133
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="Smart Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Live: Turkey",Smart Spor FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15732
+#EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="Smart Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="Live: Turkey",Smart Spor 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5209
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Live: Turkey",S Sport FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15733
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV TR" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="Live: Turkey",Sports TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5983
+#EXTINF:-1 tvg-id="24.tr" tvg-name="NBA TV TR" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Turkey",NBA TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19668
+#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Eurosport 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Turkey",Eurosport 1 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15730
+#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Eurosport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Turkey",Eurosport 2 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15731
+#EXTINF:-1 tvg-name="FightBox HD TR" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Live: Turkey",FightBox HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19666
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV TR" tvg-logo="https://picon-13398.kxcdn.com/fbtvtr.jpg" group-title="Live: Turkey",FB TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5210
+#EXTINF:-1 tvg-name="BJK TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/bjktr.jpg" group-title="Live: Turkey",BJK TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15727
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="Live: Turkey",GS TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/15729
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Power Türk HD TR" tvg-logo="https://picon-13398.kxcdn.com/powerturkhdtr.jpg" group-title="Live: Turkey",Power Türk HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14242
+#EXTINF:-1 tvg-name="KRAL TR" tvg-logo="https://picon-13398.kxcdn.com/kraltv.jpg" group-title="Live: Turkey",KRAL TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5112
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="KRAL POP TR" tvg-logo="https://picon-13398.kxcdn.com/kralpoptvtr.jpg" group-title="Live: Turkey",KRAL POP TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5113
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Türk HD TR" tvg-logo="https://picon-13398.kxcdn.com/dreamturktr.jpg" group-title="Live: Turkey",Dream Türk HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5142
+#EXTINF:-1 tvg-name="Number One HD TR" tvg-logo="https://picon-13398.kxcdn.com/numberonetr.jpg" group-title="Live: Turkey",Number One HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/12758
+#EXTINF:-1 tvg-name="Number One Turk HD TR" tvg-logo="https://picon-13398.kxcdn.com/numberonetr.jpg" group-title="Live: Turkey",Number One Turk HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14246
+#EXTINF:-1 tvg-id="MovieSmartClassic.tr" tvg-name="MovieSmart Classic TR" tvg-logo="https://picon-13398.kxcdn.com/moviesmartclassic.jpg" group-title="Live: Turkey",MovieSmart Classic TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/12743
+#EXTINF:-1 tvg-id="24.tr" tvg-name="MovieSmart Premium HD TR" tvg-logo="https://picon-13398.kxcdn.com/moviesmartpremium.jpg" group-title="Live: Turkey",MovieSmart Premium HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/12753
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart Türk HD TR" tvg-logo="https://picon-13398.kxcdn.com/moviesmartturktr.jpg" group-title="Live: Turkey",MovieSmart Türk HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19566
+#EXTINF:-1 tvg-name="SALON 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/salon1tr.jpg" group-title="Live: Turkey",SALON 1 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5118
+#EXTINF:-1 tvg-name="SALON 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/salon2tr.jpg" group-title="Live: Turkey",SALON 2 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5119
+#EXTINF:-1 tvg-name="SALON 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/salon3tr.jpg" group-title="Live: Turkey",SALON 3 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5120
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/semerkandtr.jpg" group-title="Live: Turkey",Semerkand TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5147
+#EXTINF:-1 tvg-id="SinemaTV1001.tr" tvg-name="Sinema 1001 HD TR" tvg-logo="https://picon-13398.kxcdn.com/sinema1001tr.jpg" group-title="Live: Turkey",Sinema 1001 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19561
+#EXTINF:-1 tvg-id="SinemaTVAile.tr" tvg-name="Sinema Aile HD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemaailetr.jpg" group-title="Live: Turkey",Sinema Aile HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19562
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema Aksiyon FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemaaksiyontr.jpg" group-title="Live: Turkey",Sinema Aksiyon FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19556
+#EXTINF:-1 tvg-id="SinemaTVComedy.tr" tvg-name="Sinema Komedi FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemakomeditr.jpg" group-title="Live: Turkey",Sinema Komedi FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19563
+#EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="Sinema TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinematvtr.jpg" group-title="Live: Turkey",Sinema TV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19565
+#EXTINF:-1 tvg-id="SinemaTVYerly.tr" tvg-name="Sinema TV Yerli HD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemayerlitr.jpg" group-title="Live: Turkey",Sinema TV Yerli HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19567
+#EXTINF:-1 tvg-name="YESILCAM HD TR" tvg-logo="https://picon-13398.kxcdn.com/yesilcamtr.jpg" group-title="Live: Turkey",YESILCAM HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5132
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Power TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/pwoertvtr.jpg" group-title="Live: Turkey",Power TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14245
+#EXTINF:-1 tvg-id="DiziSmartPremium.tr" tvg-name="DiziSmart Premium HD TR" tvg-logo="https://picon-13398.kxcdn.com/dizismartpremiumtr.jpg" group-title="Live: Turkey",DiziSmart Premium HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/16829
+#EXTINF:-1 tvg-id="FXNetwork.tr" tvg-name="FX HD TR" tvg-logo="https://picon-13398.kxcdn.com/fxhdus.jpg" group-title="Live: Turkey",FX HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18210
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV TR" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="Live: Turkey",24 TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19673
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="Live: Turkey",A2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/16827
+#EXTINF:-1 tvg-name="Akilli TV TR" tvg-logo="https://picon-13398.kxcdn.com/akilitvtr.jpg" group-title="Live: Turkey",Akilli TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/22850
+#EXTINF:-1 tvg-name="Arti TV TR" tvg-logo="https://picon-13398.kxcdn.com/artikrd.jpg" group-title="Live: Turkey",Arti TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17296
+#EXTINF:-1 tvg-name="Euro D TR" tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="Live: Turkey",Euro D TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/10011
+#EXTINF:-1 tvg-name="Halk TV TR" tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="Live: Turkey",Halk TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5162
+#EXTINF:-1 tvg-name="Kon TV TR" tvg-logo="https://picon-13398.kxcdn.com/kontvtr.jpg" group-title="Live: Turkey",Kon TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17880
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="KRT HD TR" tvg-logo="https://picon-13398.kxcdn.com/krttr.jpg" group-title="Live: Turkey",KRT HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/26885
+#EXTINF:-1 tvg-name="Lâlegül TV TR" tvg-logo="https://picon-13398.kxcdn.com/lalegultvtr.jpg" group-title="Live: Turkey",Lâlegül TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/16263
+#EXTINF:-1 tvg-name="MC EU TR" tvg-logo="https://picon-13398.kxcdn.com/mceutr.jpg" group-title="Live: Turkey",MC EU TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17304
+#EXTINF:-1 tvg-name="Rumeli TV TR" tvg-logo="https://picon-13398.kxcdn.com/rumelitvtr.jpg" group-title="Live: Turkey",Rumeli TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/19135
+#EXTINF:-1 tvg-name="Tele 1 TR" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="Live: Turkey",Tele 1 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/17361
+#EXTINF:-1 tvg-name="Teve 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="Live: Turkey",Teve 2 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14228
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Teve 2 TR" tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="Live: Turkey",Teve 2 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5146
+#EXTINF:-1 tvg-name="TGRT Haber TR" tvg-logo="https://picon-13398.kxcdn.com/tgrthabertr.jpg" group-title="Live: Turkey",TGRT Haber TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/18206
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TV 24 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tv24tr.jpg" group-title="Live: Turkey",TV 24 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/28200
+#EXTINF:-1 tvg-name="TV 360 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tv360tr.jpg" group-title="Live: Turkey",TV 360 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5114
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="Tvnet HD TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="Live: Turkey",Tvnet HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/14238
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="Live: Turkey",Ulusal Kanal TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/5117
+#EXTINF:-1 tvg-name="Zarok TV TR" tvg-logo="https://picon-13398.kxcdn.com/zaroktvtr.jpg" group-title="Live: Turkey",Zarok TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/30572
+#EXTINF:-1 tvg-name="FullTV Vizyon 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/fulltvtr.jpg" group-title="Live: Turkey",FullTV Vizyon 1 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/34786
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Akit TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/akittvtr.jpg" group-title="Live: Turkey",Akit TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37127
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC HD TR" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Turkey",TLC HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37128
+#EXTINF:-1 tvg-name="UçanKus TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/ucankustvtr.jpg" group-title="Live: Turkey",UçanKus TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37129
+#EXTINF:-1 tvg-name="A News HD TR" tvg-logo="https://picon-13398.kxcdn.com/anewstr.jpg" group-title="Live: Turkey",A News HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37369
+#EXTINF:-1 tvg-name="A Para HD TR" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="Live: Turkey",A Para HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37370
+#EXTINF:-1 tvg-name="Anadolu Dernek TV TR" tvg-logo="https://picon-13398.kxcdn.com/anadoludernektr.jpg" group-title="Live: Turkey",Anadolu Dernek TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37371
+#EXTINF:-1 tvg-id="BeykentTV.tr" tvg-name="Beykent TV TR" tvg-logo="https://picon-13398.kxcdn.com/beykenttr.jpg" group-title="Live: Turkey",Beykent TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37372
+#EXTINF:-1 tvg-name="Cem TV TR" tvg-logo="https://picon-13398.kxcdn.com/cemtvtr.jpg" group-title="Live: Turkey",Cem TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37373
+#EXTINF:-1 tvg-id="DreamTV.tr" tvg-name="Dream TV TR" tvg-logo="https://picon-13398.kxcdn.com/dreamtvtr.jpg" group-title="Live: Turkey",Dream TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37374
+#EXTINF:-1 tvg-name="DRT Denizli TR" tvg-logo="https://picon-13398.kxcdn.com/drtdenizlitr.jpg" group-title="Live: Turkey",DRT Denizli TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37375
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekotürk TR" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg" group-title="Live: Turkey",Ekotürk TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37376
+#EXTINF:-1 tvg-name="EuroStar TR" tvg-logo="https://picon-13398.kxcdn.com/eurostartr.jpg" group-title="Live: Turkey",EuroStar TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37377
+#EXTINF:-1 tvg-name="Kanal 33 TR" tvg-logo="https://picon-13398.kxcdn.com/kanal33tr.jpg" group-title="Live: Turkey",Kanal 33 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37378
+#EXTINF:-1 tvg-name="Kanal Avrupa TR" tvg-logo="https://picon-13398.kxcdn.com/kanalavrupatr.jpg" group-title="Live: Turkey",Kanal Avrupa TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37379
+#EXTINF:-1 tvg-id="KanalB.tr" tvg-name="KANAL B TR" tvg-logo="https://picon-13398.kxcdn.com/kanalbtr.jpg" group-title="Live: Turkey",KANAL B TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37380
+#EXTINF:-1 tvg-name="On 4 TR" tvg-logo="https://picon-13398.kxcdn.com/on4tr.jpg" group-title="Live: Turkey",On 4 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37381
+#EXTINF:-1 tvg-name="Park TV TR" tvg-logo="https://picon-13398.kxcdn.com/parktvtr.jpg" group-title="Live: Turkey",Park TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37382
+#EXTINF:-1 tvg-name="TAY TV FHD TR" tvg-logo="https://picon-13398.kxcdn.com/taytvtr.jpg" group-title="Live: Turkey",TAY TV FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37383
+#EXTINF:-1 tvg-name="Tarim Türk TR" tvg-logo="https://picon-13398.kxcdn.com/tarimturktr.jpg" group-title="Live: Turkey",Tarim Türk TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37384
+#EXTINF:-1 tvg-name="TGRT Belgesel TR" tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" group-title="Live: Turkey",TGRT Belgesel TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37385
+#EXTINF:-1 tvg-name="TGRT EU TR" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" group-title="Live: Turkey",TGRT EU TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37386
+#EXTINF:-1 tvg-name="TV 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tv4tr.jpg" group-title="Live: Turkey",TV 4 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37393
+#EXTINF:-1 tvg-name="TV 5 TR" tvg-logo="https://picon-13398.kxcdn.com/tv5tr.jpg" group-title="Live: Turkey",TV 5 TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/37394
+#EXTINF:-1 tvg-name="S Sport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/ssport2tr.jpg" group-title="Live: Turkey",S Sport 2 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/71022
+#EXTINF:-1 tvg-name="Boomerang HD TR" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Turkey",Boomerang HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73869
+#EXTINF:-1 tvg-name="DiziSmart Max FHD TR" tvg-logo="https://picon-13398.kxcdn.com/dizismartmaxtr.jpg" group-title="Live: Turkey",DiziSmart Max FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73870
+#EXTINF:-1 tvg-name="Fast & FunBox HD TR" tvg-logo="https://picon-13398.kxcdn.com/fastandfunboxhdtr.jpg" group-title="Live: Turkey",Fast & FunBox HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73871
+#EXTINF:-1 tvg-name="Habitat FHD TR" tvg-logo="https://picon-13398.kxcdn.com/habitattr.jpg" group-title="Live: Turkey",Habitat FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73872
+#EXTINF:-1 tvg-name="Outdoor Channel FHD TR" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg" group-title="Live: Turkey",Outdoor Channel FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73873
+#EXTINF:-1 tvg-name="Sinema 1002 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinema1002tr.jpg" group-title="Live: Turkey",Sinema 1002 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73874
+#EXTINF:-1 tvg-name="Sinema 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinema2tr.jpg" group-title="Live: Turkey",Sinema 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73875
+#EXTINF:-1 tvg-name="Sinema Aksiyon 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemaaksiyon2tr.jpg" group-title="Live: Turkey",Sinema Aksiyon 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73876
+#EXTINF:-1 tvg-name="Sinema Aile 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemaaile2tr.jpg" group-title="Live: Turkey",Sinema Aile 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73877
+#EXTINF:-1 tvg-name="Sinema Komedi 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/sinemakomedi2tr.jpg" group-title="Live: Turkey",Sinema Komedi 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/73878
+#EXTINF:-1 tvg-name=" Yildiz TV En TR" tvg-logo="https://picon-13398.kxcdn.com/yildiztventr.jpg" group-title="Live: Turkey", Yildiz TV En TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/87550
+#EXTINF:-1 tvg-name="Tempo TV TR" tvg-logo="https://picon-13398.kxcdn.com/tempotvtr.jpg" group-title="Live: Turkey",Tempo TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/87551
+#EXTINF:-1 tvg-name="Ekin Türk TR" tvg-logo="https://picon-13398.kxcdn.com/ekintvtr.jpg" group-title="Live: Turkey",Ekin Türk TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/87552
+#EXTINF:-1 tvg-name="Exxen Sport 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 1 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/88662
+#EXTINF:-1 tvg-name="Exxen Sport 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 2 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/88663
+#EXTINF:-1 tvg-name="Exxen Sport 3 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 3 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/88664
+#EXTINF:-1 tvg-name="Exxen Sport 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 4 FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/91333
+#EXTINF:-1 tvg-name="Syria TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/syriatvtr.jpg" group-title="Live: Turkey",Syria TV HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/99919
+#EXTINF:-1 tvg-name="Exxen Sport 5 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 5 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/113758
+#EXTINF:-1 tvg-name="Exxen Sport 6 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 6 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/113759
+#EXTINF:-1 tvg-name="Exxen Sport 7 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 7 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/113760
+#EXTINF:-1 tvg-name="Exxen Sport 8 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 8 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/113761
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global HD TR" tvg-logo="https://picon-13398.kxcdn.com/haberglobaltr.jpg" group-title="Live: Turkey",Haber Global HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/113922
+#EXTINF:-1 tvg-name="Çocuk Smart FHD TR" tvg-logo="https://picon-13398.kxcdn.com/cocuksmarttr.jpg" group-title="Live: Turkey",Çocuk Smart FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/116855
+#EXTINF:-1 tvg-name="FilmBox FHD TR" tvg-logo="https://picon-13398.kxcdn.com/filmbox.jpg" group-title="Live: Turkey",FilmBox FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/116856
+#EXTINF:-1 tvg-name="Viasat History FHD TR" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="Live: Turkey",Viasat History FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/116857
+#EXTINF:-1 tvg-name="Inultra FHD TR" tvg-logo="https://picon-13398.kxcdn.com/inultratr.jpg" group-title="Live: Turkey",Inultra FHD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/116858
+#EXTINF:-1 tvg-name="Kocaeli TV TR" tvg-logo="https://picon-13398.kxcdn.com/kocaelitvtr.jpg" group-title="Live: Turkey",Kocaeli TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/116859
+#EXTINF:-1 tvg-name="Tek Rumeli TV TR" tvg-logo="https://picon-13398.kxcdn.com/tekrumelitvtr.jpg" group-title="Live: Turkey",Tek Rumeli TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/118077
+#EXTINF:-1 tvg-name="Tivibu Spor 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Live: Turkey",Tivibu Spor 4 HD TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/118267
+#EXTINF:-1 tvg-name="Türkmeneli TV TR" group-title="Live: Turkey",Türkmeneli TV TR
+http://45.12.1.14:80/EWaEfpcvLr406/AXIqf4016/122173
