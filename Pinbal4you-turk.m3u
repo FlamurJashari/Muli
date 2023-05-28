@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/TRT1.png" group-title="TURK ",TRT 1 HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="TURK ",TRT 1 HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRtMAKeOnG-UuxQqJxnSs38yiNWi5WWC3fpPfLjbQMdeHlJoeYGk-aMVZ-aiWpiuCYs?ext=.ts
-#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/SHOW.png" group-title="TURK ",SHOW TV HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showtvtr.jpg" group-title="TURK ",SHOW TV HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRuJdTXUY1lCUxmFQYw3HsJBTvw0Bs2tldZP3bJ12N8hIB87aTGvMsGO6pjD_wbk4-Q?ext=.ts
-#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/STAR.png" group-title="TURK ",STAR TV HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="TURK ",STAR TV HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRsSgazQVRP7WwyO2gbFXcdNmLybEkBSZYaNqZG_Ug1cHC6M2yq-0Az8lNKAMfvHbQs?ext=.ts
-#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/FOXHD.png" group-title="TURK ",FOX TV HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="TURK ",FOX TV HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRvtbZqrqJUT28Y3sM1cDCGaSDK2lMHqoFX9GJfA_CDUDN8BdVI00rtgqa61ZTs0Wh0?ext=.ts
 #EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/ATV.png" group-title="TURK ",ATV HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRvw110hPFzXWRsQZYF4EUrubcsjFFAvz9rcpTmUied3AZpsmzHcP2oivBAX1o_M2g8?ext=.ts
-#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/KANALD.png" group-title="TURK ",KANAL D HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="TURK ",KANAL D HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRtqIR7ab5cpzDVbsaTH8blOP0sQ2tj_35PLEpWTj6-8o9q1RQV0ahy4ltt1jntWnkk?ext=.ts
-#EXTINF:-1 tvg-logo="http://logourl.net/4KOTTLOGO/TURKEY/TV8.png" group-title="TURK ",TV 8 HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="TURK ",TV 8 HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRtvwX35RUsM-oEgp-Sppe4bbMrMOYbxBgERPyUyWH5btuCgKw3qYYXXhLjEhjmJgkg?ext=.ts
-#EXTINF:-1 group-title="TURK ",DREAM TURK HD
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dreamturktr.jpg" group-title="TURK ",DREAM TURK HD
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRv_cqgH4bDg3LyG6caq_xTdVYUGRnYHaNOuXuLzY1CmbvFJF7yV_nmNjNlweI2YioI?ext=.ts
 #EXTINF:-1 group-title="TURK ",TMB TV 
 http://pinbal4you.com:5436/play/VYDR_vrq-H8TXHb54nUrqBTFxTAJ45xR8wP7FfZAmBSLBjN49qi1UA-lGTrbUEkFv6gEuPDQq8KN1o3vPWXPBUowkUlL1OazRunt9JlNXRtDPuEbp337SVz4FiugmP5ILE7DIq4k1NTwJVO6kbhebjdLpookBIIRDZ4G14UUtj4?ext=.ts
