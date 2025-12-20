@@ -2,6 +2,82 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 FHD AL
 http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22814&extension=ts&play_token=cwlI7a0qu2&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3832&extension=ts&play_token=a7hxl08xjW&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Maqedonia AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21maqedonia.jpg" group-title="Live: Albania",RTV 21 Maqedonia AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9453&extension=ts&play_token=u8rIMs2nKA&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV Kohavision FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9456&extension=ts&play_token=EDoQrAYqpf&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV Kohavision AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9456&extension=ts&play_token=EDoQrAYqpf&sn2=
+#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Klan Kosova HD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",Klan Kosova HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9455&extension=ts&play_token=tAwYsoyEyB&sn2=
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",Klan Kosova FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9455&extension=ts&play_token=tAwYsoyEyB&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="T7 AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T7 AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=23108&extension=ts&play_token=6vyA0GFimF&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="T7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T7 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=23108&extension=ts&play_token=6vyA0GFimF&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini HD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",Dukagjini HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4236&extension=ts&play_token=kf0OM0LgW9&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini FHD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",Dukagjini FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4236&extension=ts&play_token=kf0OM0LgW9&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 AL" tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg" group-title="Live: Albania",Kanal 10 AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=53152&extension=ts&play_token=D7OWIB0Qey&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="A TV FHD AL" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",A TV FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=73298&extension=ts&play_token=HDjMa990Ft&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="TeVe 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg" group-title="Live: Albania",TeVe 1 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=99872&extension=ts&play_token=8x5l225RDb&sn2=
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3800&extension=ts&play_token=3J8pFGfjLn&sn2=
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3800&extension=ts&play_token=3J8pFGfjLn&sn2=
+#EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Live: Albania",SuperSport News FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22807&extension=ts&play_token=Pbk8XApeE1&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22807&extension=ts&play_token=Pbk8XApeE1&sn2=
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22808&extension=ts&play_token=rYVaoKWEQO&sn2=
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4199&extension=ts&play_token=VZXAHhohZR&sn2=
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22809&extension=ts&play_token=5n3WYeiBU5&sn2=
+#EXTINF:-1 tvg-id="ClickTV.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22809&extension=ts&play_token=5n3WYeiBU5&sn2=
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22810&extension=ts&play_token=fa7QuVvcdf&sn2=
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22810&extension=ts&play_token=fa7QuVvcdf&sn2=
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22811&extension=ts&play_token=C9mPC5gJMO&sn2=
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22812&extension=ts&play_token=cBAo23K7MR&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport6hd.jpg" group-title="Live: Albania",SuperSport 6 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22812&extension=ts&play_token=cBAo23K7MR&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport7al.jpg" group-title="Live: Albania",SuperSport 7 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22813&extension=ts&play_token=zHuWG2R1ib&sn2=
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-name="Tring Sport News HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg" group-title="Live: Albania",Tring Sport News HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=8077&extension=ts&play_token=tB0oDGPqSO&sn2=
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Live: Albania",Tring Sport 1 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=8078&extension=ts&play_token=QrxzMU2gTW&sn2=
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="Live: Albania",Tring Sport 2 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=8079&extension=ts&play_token=p3yDPDArh8&sn2=
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Live: Albania",Tring Sport 3 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=8080&extension=ts&play_token=lxUGTgrDnw&sn2=
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="Tring Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg" group-title="Live: Albania",Tring Sport 4 HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=8081&extension=ts&play_token=fSjOP7OQrD&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 1 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=28182&extension=ts&play_token=QEO37Gz99h&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 2 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=28183&extension=ts&play_token=26htuvDbEX&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 3 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=28184&extension=ts&play_token=vqdPsVCukL&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 4 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=89864&extension=ts&play_token=52yizkmtGi&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 5 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=89865&extension=ts&play_token=B0qitot74w&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 6 FHD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=89866&extension=ts&play_token=u2aYkTW5Fp&p
 
 #EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21 FHD AL
 http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3832&extension=ts&play_token=a7hxl08xjW&sn2=
