@@ -25,6 +25,8 @@ http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4236&exte
 http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=53152&extension=ts&play_token=D7OWIB0Qey&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="A TV FHD AL" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",A TV FHD AL
 http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=73298&extension=ts&play_token=HDjMa990Ft&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Explorer Shkencë " tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",Explorer Shkencë  
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4203&extension=ts&play_token=34pdTaqHMD&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 HD AL
 http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22807&extension=ts&play_token=Pbk8XApeE1&sn2=
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 FHD AL
