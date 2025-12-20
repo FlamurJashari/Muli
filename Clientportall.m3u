@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9c/9c73792d3e85a72f8dacdce09db31c1d.png" group-title="Pinbal4you",NASA-Live
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22814&extension=ts&play_token=wmerhJIcLr&sn2=
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://epg.deinto.com/logos/allchannels/RTK1.png" group-title="Pinbal4you",RTK 1 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22814&extension=ts&play_token=lqruui1VLG&sn2=
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/RTK1.png" group-title="Pinbal4you",RTK 1
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9458&extension=ts&play_token=PhuZbZnQe6&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/RTV21HD.png" group-title="Pinbal4you",RTV 21 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3832&extension=ts&play_token=KZI7Qi8elj&sn2=
+#EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/21TV.png" group-title="Pinbal4you",RTV 21
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9451&extension=ts&play_token=sslv1xPTt2&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/KTVHD.png" group-title="Pinbal4you",KTV HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9456&extension=ts&play_token=l83H3wSAsj&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/KTVHD.png" group-title="Pinbal4you",KTV
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=7065&extension=ts&play_token=jB2slv6gEA&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/T%207.png" group-title="Pinbal4you",T7 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=23108&extension=ts&play_token=IvwFLawXrk&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/T%207.png" group-title="Pinbal4you",T7 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=20167&extension=ts&play_token=BzBEzZdjKt&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/TV%20Dukagjini.png" group-title="Pinbal4you",Dukagjini TV HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4236&extension=ts&play_token=M1iyQT5k0m&sn2=
+#EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/Klan%20Kosova.png" group-title="Pinbal4you",Klan Kosova HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9455&extension=ts&play_token=Y5LQRc1yAf&sn2=
