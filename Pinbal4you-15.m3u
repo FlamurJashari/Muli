@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9c/9c73792d3e85a72f8dacdce09db31c1d.png" group-title="Pinbal4you",NASA-Live
-http://pinbal4you.com:5436/play/GtJDMjbjur2ONKs-L0mAYhpF0l-B16NlR2MNMGoIjle7sbILBolBSCTVZleAxWUgf3Ln4QzTyLMUpHNOx3V9ltAaTsxkuVUWTIb_E3u-AHNpVuWFC4u6pzcz9yLpKl_G8HMnKHa2xvo760G2P_Xg283kCCwjfdIxamg7hbxC6Sg?ext=.ts
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22814&extension=ts&play_token=wmerhJIcLr&sn2=
 #EXTINF:-1 tvg-chno="1" tvg-logo="http://epg.deinto.com/logos/allchannels/RTK1.png" group-title="Pinbal4you",RTK 1 HD
-http://pinbal4you.com:5436/play/GtJDMjbjur2ONKs-L0mAYhpF0l-B16NlR2MNMGoIjle7sbILBolBSCTVZleAxWUgf3Ln4QzTyLMUpHNOx3V9ltAaTsxkuVUWTIb_E3u-AHOK4j1IhaQy30ncogOP1ROtqE0A9fOMH3RRYOuwE70rXJcNjc1DcKitWDkkpKrm-tk?ext=.ts
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9458&extension=ts&play_token=37CmoNpo7i&sn2=
 #EXTINF:-1 tvg-logo="http://epg.deinto.com/logos/allchannels/RTK1.png" group-title="Pinbal4you",RTK 1
 http://pinbal4you.com:5436/play/GtJDMjbjur2ONKs-L0mAYhpF0l-B16NlR2MNMGoIjle7sbILBolBSCTVZleAxWUgf3Ln4QzTyLMUpHNOx3V9ltAaTsxkuVUWTIb_E3u-AHPAAuOq1Eq94GsKFEyQNTLRyEc1522xHP0aWMrwyqRRJVuqrIImLHAQzXYY5KPSSZk?ext=.ts
 #EXTINF:-1 tvg-logo="http://tscheck.tk/logos/_albania/RTV21HD.png" group-title="Pinbal4you",RTV 21 HD
