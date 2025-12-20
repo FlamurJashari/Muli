@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Rtk1" tvg-logo="" group-title="Live",Rtk1
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22814&extension=ts&play_token=mJoDmnd0xf&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Rtv 21" tvg-logo="" group-title="Live",Rtv 21
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3832&extension=ts&play_token=nizQMwKMXT&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova" tvg-logo="" group-title="Live",Klan Kosova
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9455&extension=ts&play_token=VlJkvIC0RB&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ktv" tvg-logo="" group-title="Live",Ktv
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9456&extension=ts&play_token=bQxz57XfFO&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="T7" tvg-logo="" group-title="Live",T7
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=20167&extension=ts&play_token=PHwD1fcmkE&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini" tvg-logo="" group-title="Live",Dukagjini
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4236&extension=ts&play_token=aPnSHCjNKi&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Klan Hd" tvg-logo="" group-title="Live",Klan Hd
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9454&extension=ts&play_token=OpzffLM7K3&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Live",Top Channel
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4178&extension=ts&play_token=nSRrcrdAUU&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="X music hits" tvg-logo="" group-title="Music",X music hits
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22800&extension=ts&play_token=gWQ4rZ7t98&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Folk" tvg-logo="" group-title="Music",Folk
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=6260&extension=ts&play_token=AjxTJV77ql&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv Sharri" tvg-logo="" group-title="Live",Tv Sharri
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9368&extension=ts&play_token=FVu75dKpEN&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada" tvg-logo="" group-title="Music",Top Estrada
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=12046&extension=ts&play_token=ssswwzWsav&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Zico Tv" tvg-logo="" group-title="Live",Zico Tv
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=23854&extension=ts&play_token=KQml37f6Mu&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="Live",Elrodi TV
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4235&extension=ts&play_token=yHBAVGlySf&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova" tvg-logo="" group-title="Music",MTV Kosova
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=12051&extension=ts&play_token=iesnaagYqC&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="E Premier" tvg-logo="" group-title="Sports",E Premier
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=12031&extension=ts&play_token=OkoZCZUc6f&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="E premier 2" tvg-logo="" group-title="Sports",E premier 2
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=12030&extension=ts&play_token=JMndhoQDTr&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="E premier 3" tvg-logo="" group-title="Sports",E premier 3
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=12029&extension=ts&play_token=wzE2ZR6oiV&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="E Premier 4" tvg-logo="" group-title="Sports",E Premier 4
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=22787&extension=ts&play_token=sJfnpep77M&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Movies",Film Aksion
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3820&extension=ts&play_token=K3LZ3rwku2&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Movies",Film Hits
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3818&extension=ts&play_token=wDfaFQvMhb&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="Movies",Film Komedi
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3821&extension=ts&play_token=Hphex5CzRz&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Movies",Film Autor
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=3803&extension=ts&play_token=5RSAWjprLo&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Movies",Film Thriller
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4193&extension=ts&play_token=apq2FOwyun&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Dramë" tvg-logo="" group-title="Movies",Film Dramë
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4194&extension=ts&play_token=psfwZljYez&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Gold" tvg-logo="" group-title="Movies",Film Gold
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=91872&extension=ts&play_token=anCBLt3kJp&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Max" tvg-logo="" group-title="Movies",Film Max
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=91873&extension=ts&play_token=G6VlHD8hWy&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1" tvg-logo="" group-title="Movies",Art Kino 1
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=28175&extension=ts&play_token=OX16FA3kT8&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2" tvg-logo="" group-title="Movies",Art Kino 2
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=28176&extension=ts&play_token=o8CJzFBWJj&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3" tvg-logo="" group-title="Movies",Art Kino 3
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=28177&extension=ts&play_token=TnuiMWvjkw&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Aksion" tvg-logo="" group-title="Tring",Tring Aksion
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4223&extension=ts&play_token=EGue286eMp&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Tring",Tring Life
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4224&extension=ts&play_token=43W1Ew6Y2M&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Series" tvg-logo="" group-title="Tring",Tring Series
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4227&extension=ts&play_token=mbAeSywEEm&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Collection" tvg-logo="" group-title="Tring",Tring Collection
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=139851&extension=ts&play_token=LKQ7lHovax&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring classic" tvg-logo="" group-title="Tring",Tring classic
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=139851&extension=ts&play_token=LKQ7lHovax&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+" tvg-logo="" group-title="Tring",Tring 3+
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4237&extension=ts&play_token=alvXPvkNIS&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Tring",Tring Super
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4218&extension=ts&play_token=MKM2IkAi7Z&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="Tring",Tring Comedy
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=2054&extension=ts&play_token=i9NcYSle2e&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Novelas" tvg-logo="" group-title="Tring",Tring Novelas
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=93395&extension=ts&play_token=7FsPZFRY2y&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Tring",Tring Fantasy
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4230&extension=ts&play_token=9e05Dnm5t7&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Turkish Story" tvg-logo="" group-title="Tring",Tring Turkish Story
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=136718&extension=ts&play_token=aRvaGgWibW&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Tring",Tring World
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4213&extension=ts&play_token=5fDBNTdDp2&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Tring",Tring Planet
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=6088&extension=ts&play_token=jtOpNSf4Jn&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Histori" tvg-logo="" group-title="Tring",Tring Histori
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4228&extension=ts&play_token=QTXkVASTVK&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Explorer Shkencë" tvg-logo="" group-title="Explorer",Explorer Shkencë
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4203&extension=ts&play_token=AAR8JHLnaG&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Explorer Natyra" tvg-logo="" group-title="Explorer",Explorer Natyra
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4202&extension=ts&play_token=Dko3ISU24o&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Explorer Histori" tvg-logo="" group-title="Explorer",Explorer Histori
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=4204&extension=ts&play_token=RwgT1cccNR&sn2=
