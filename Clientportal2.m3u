@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALB.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD" tvg-logo="" group-title="TV",RTK 1 FHD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22814&extension=ts&play_token=r5Bas9jpL6&sn2=
@@ -68,6 +68,18 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4235&
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Kosova" tvg-logo="" group-title="Music",MTV Kosova
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12051&extension=ts&play_token=CkRangXz8B&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 1" tvg-logo="https://i.imgur.com/3GZQX0G.png" group-title="Sports",Digi Gold 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=15778&extension=ts&play_token=EBDN2BjqDm&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 2" tvg-logo="https://i.imgur.com/3GZQX0G.png" group-title="Sports",Digi Gold 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=15779&extension=ts&play_token=TV7BIbK39j&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 3" tvg-logo="https://i.imgur.com/3GZQX0G.png" group-title="Sports",Digi Gold 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=16814&extension=ts&play_token=SQFUT3h31q&sn2=
+
+#EXTINF:-1 tvg-name="Digi Gold 4" tvg-logo="https://i.imgur.com/3GZQX0G.png" group-title="Sports",Digi Gold 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=16815&extension=ts&play_token=WmLHg5pVG0&sn2=
 
 #EXTINF:-1 tvg-id="" tvg-name="E Premier" tvg-logo="" group-title="Movies",E Premier
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12031&extension=ts&play_token=DyKozLjxuE&sn2=
