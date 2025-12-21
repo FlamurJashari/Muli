@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="" group-title="Live: Albania",RTK 1 FHD AL
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22814&extension=ts&play_token=r5Bas9jpL6&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 HD AL" tvg-logo="" group-title="Live: Albania",RTV 21 HD AL
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=3832&extension=ts&play_token=r2SyDT7FTA&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="Live: Albania",Klan Kosova HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=9455&extension=ts&play_token=ohhRHejCGx&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="KTV HD" tvg-logo="" group-title="Live: Albania",KTV HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=9456&extension=ts&play_token=oIUY9CGdam&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="T7 HD" tvg-logo="" group-title="Live: Albania",T7 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=23108&extension=ts&play_token=Bg1dNk9Fpv&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini HD" tvg-logo="" group-title="Live: Albania",Dukagjini HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4236&extension=ts&play_token=nzN58kymUx&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Klan HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan HD AL
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:52:2a:00&stream=9454&extension=ts&play_token=OpzffLM7K3&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD AL" tvg-logo="" group-title="Live: Albania",Top Channel HD AL
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=4178&extension=ts&play_token=bXLA75kHyV&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="X Music Hits" tvg-logo="" group-title="Music: Albania",X Music Hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=22800&extension=ts&play_token=XfR0b8ctV0&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Folk Music" tvg-logo="" group-title="Music: Albania",Folk Music
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=6260&extension=ts&play_token=R6MkL5pU00&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="STV Folk" tvg-logo="" group-title="Music: Albania",STV Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=126259&extension=ts&play_token=vgJfpZuLWG&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri" tvg-logo="" group-title="Live: Albania",TV Sharri
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=9368&extension=ts&play_token=5MAENLVG5X&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada" tvg-logo="" group-title="Music: Albania",Top Estrada
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=12046&extension=ts&play_token=8GDAFA1L8h&sn2=
+
+#EXTINF:-1 tvg-id="" tvg-name="Zico TV" tvg-logo="" group-title="Live: Albania",Zico TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:4f:27:e1&stream=23854&extension=ts&play_token=Vn7Yhck9RN&sn2=
