@@ -1,0 +1,184 @@
+#EXTM3U
+
+##### LIVE TV #####
+#EXTINF:-1 tvg-name="RTK 1 FHD" group-title="Live",RTK 1 FHD
+URL_RTK1
+
+#EXTINF:-1 tvg-name="RTV 21 FHD" group-title="Live",RTV 21 FHD
+URL_RTV21
+
+#EXTINF:-1 tvg-name="Klan Kosova FHD" group-title="Live",Klan Kosova FHD
+URL_KLAN_KS
+
+#EXTINF:-1 tvg-name="KTV FHD" group-title="Live",KTV FHD
+URL_KTV
+
+#EXTINF:-1 tvg-name="T7 FHD" group-title="Live",T7 FHD
+URL_T7
+
+#EXTINF:-1 tvg-name="Dukagjini FHD" group-title="Live",Dukagjini FHD
+URL_DUKAGJINI
+
+#EXTINF:-1 tvg-name="ATV FHD" group-title="Live",ATV FHD
+URL_ATV
+
+#EXTINF:-1 tvg-name="Kanal 10 FHD" group-title="Live",Kanal 10 FHD
+URL_KANAL10
+
+#EXTINF:-1 tvg-name="Tëvë 1 FHD" group-title="Live",Tëvë 1 FHD
+URL_TEVE1
+
+#EXTINF:-1 tvg-name="Klan HD" group-title="Live",Klan HD
+URL_KLAN_HD
+
+#EXTINF:-1 tvg-name="Top Channel FHD" group-title="Live",Top Channel FHD
+URL_TOP_CHANNEL
+
+
+##### REALITY #####
+#EXTINF:-1 tvg-name="Big Brother Kosova 1 FHD" group-title="Reality",BB Kosova 1
+URL_BB_KS1
+
+#EXTINF:-1 tvg-name="Big Brother Kosova 2 FHD" group-title="Reality",BB Kosova 2
+URL_BB_KS2
+
+#EXTINF:-1 tvg-name="Big Brother Albania 1 FHD" group-title="Reality",BB Albania 1
+URL_BB_AL1
+
+#EXTINF:-1 tvg-name="Big Brother Albania 2 FHD" group-title="Reality",BB Albania 2
+URL_BB_AL2
+
+
+##### MUSIC #####
+#EXTINF:-1 tvg-name="X Music Hits" group-title="Music",X Music Hits
+URL_XMUSIC
+
+#EXTINF:-1 tvg-name="Folk" group-title="Music",Folk
+URL_FOLK
+
+#EXTINF:-1 tvg-name="STV Folk" group-title="Music",STV Folk
+URL_STV_FOLK
+
+#EXTINF:-1 tvg-name="TV Sharri" group-title="Music",TV Sharri
+URL_SHARRI
+
+#EXTINF:-1 tvg-name="Top Estrada" group-title="Music",Top Estrada
+URL_TOP_ESTRADA
+
+#EXTINF:-1 tvg-name="Zico TV" group-title="Music",Zico TV
+URL_ZICO
+
+#EXTINF:-1 tvg-name="MTV Kosova" group-title="Music",MTV Kosova
+URL_MTV_KS
+
+
+##### MOVIES #####
+#EXTINF:-1 tvg-name="E Premier" group-title="Movies",E Premier
+URL_E1
+#EXTINF:-1 tvg-name="E Premier 2" group-title="Movies",E Premier 2
+URL_E2
+#EXTINF:-1 tvg-name="E Premier 3" group-title="Movies",E Premier 3
+URL_E3
+#EXTINF:-1 tvg-name="E Premier 4" group-title="Movies",E Premier 4
+URL_E4
+
+#EXTINF:-1 tvg-name="Film Aksion" group-title="Movies",Film Aksion
+URL_FA
+#EXTINF:-1 tvg-name="Film Hits" group-title="Movies",Film Hits
+URL_FH
+#EXTINF:-1 tvg-name="Film Komedi" group-title="Movies",Film Komedi
+URL_FK
+#EXTINF:-1 tvg-name="Film Autor" group-title="Movies",Film Autor
+URL_FAU
+#EXTINF:-1 tvg-name="Film Thriller" group-title="Movies",Film Thriller
+URL_FT
+#EXTINF:-1 tvg-name="Film Dramë" group-title="Movies",Film Dramë
+URL_FD
+#EXTINF:-1 tvg-name="Film Gold" group-title="Movies",Film Gold
+URL_FG
+#EXTINF:-1 tvg-name="Film Max" group-title="Movies",Film Max
+URL_FM
+#EXTINF:-1 tvg-name="Eurofilm" group-title="Movies",Eurofilm
+URL_EURO
+
+#EXTINF:-1 tvg-name="Art Kino 1" group-title="Movies",Art Kino 1
+URL_AK1
+#EXTINF:-1 tvg-name="Art Kino 2" group-title="Movies",Art Kino 2
+URL_AK2
+#EXTINF:-1 tvg-name="Art Kino 3" group-title="Movies",Art Kino 3
+URL_AK3
+
+
+##### DOCUMENTARY #####
+#EXTINF:-1 tvg-name="Tring World" group-title="Documentary",Tring World
+URL_TW
+#EXTINF:-1 tvg-name="Tring Planet" group-title="Documentary",Tring Planet
+URL_TP
+#EXTINF:-1 tvg-name="Tring Histori" group-title="Documentary",Tring Histori
+URL_TH
+
+#EXTINF:-1 tvg-name="Explorer Shkencë" group-title="Documentary",Explorer Shkencë
+URL_ES
+#EXTINF:-1 tvg-name="Explorer Natyra" group-title="Documentary",Explorer Natyra
+URL_EN
+#EXTINF:-1 tvg-name="Explorer Histori" group-title="Documentary",Explorer Histori
+URL_EH
+
+#EXTINF:-1 tvg-name="Art Doku 1" group-title="Documentary",Art Doku 1
+URL_AD1
+#EXTINF:-1 tvg-name="Art Doku 2" group-title="Documentary",Art Doku 2
+URL_AD2
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
+URL_NG
+
+
+##### KIDS #####
+#EXTINF:-1 tvg-name="Bang Bang" group-title="Kids",Bang Bang
+URL_BANG
+#EXTINF:-1 tvg-name="Çufo" group-title="Kids",Çufo
+URL_CUFO
+
+
+##### SPORTS (NË FUND) #####
+#EXTINF:-1 tvg-name="Super Sport 1 HD" group-title="Sports",Super Sport 1 HD
+URL_SS1HD
+#EXTINF:-1 tvg-name="Super Sport 1 FHD" group-title="Sports",Super Sport 1 FHD
+URL_SS1FHD
+#EXTINF:-1 tvg-name="Super Sport 2 HD" group-title="Sports",Super Sport 2 HD
+URL_SS2HD
+#EXTINF:-1 tvg-name="Super Sport 2 FHD" group-title="Sports",Super Sport 2 FHD
+URL_SS2FHD
+#EXTINF:-1 tvg-name="Super Sport 3 FHD" group-title="Sports",Super Sport 3 FHD
+URL_SS3
+#EXTINF:-1 tvg-name="Super Sport 4 FHD" group-title="Sports",Super Sport 4 FHD
+URL_SS4
+#EXTINF:-1 tvg-name="Super Sport 5 FHD" group-title="Sports",Super Sport 5 FHD
+URL_SS5
+#EXTINF:-1 tvg-name="Super Sport 6 FHD" group-title="Sports",Super Sport 6 FHD
+URL_SS6
+#EXTINF:-1 tvg-name="Super Sport 7 FHD" group-title="Sports",Super Sport 7 FHD
+URL_SS7
+
+#EXTINF:-1 tvg-name="Art Sport 1 FHD" group-title="Sports",Art Sport 1 FHD
+URL_AS1
+#EXTINF:-1 tvg-name="Art Sport 2 FHD" group-title="Sports",Art Sport 2 FHD
+URL_AS2
+#EXTINF:-1 tvg-name="Art Sport 3 FHD" group-title="Sports",Art Sport 3 FHD
+URL_AS3
+#EXTINF:-1 tvg-name="Art Sport 4 FHD" group-title="Sports",Art Sport 4 FHD
+URL_AS4
+#EXTINF:-1 tvg-name="Art Sport 5 FHD" group-title="Sports",Art Sport 5 FHD
+URL_AS5
+#EXTINF:-1 tvg-name="Art Sport 6 FHD" group-title="Sports",Art Sport 6 FHD
+URL_AS6
+
+#EXTINF:-1 tvg-name="Tring Sport News" group-title="Sports",Tring Sport News
+URL_TSN
+#EXTINF:-1 tvg-name="Tring Sport 1 FHD" group-title="Sports",Tring Sport 1 FHD
+URL_TS1
+#EXTINF:-1 tvg-name="Tring Sport 2 FHD" group-title="Sports",Tring Sport 2 FHD
+URL_TS2
+#EXTINF:-1 tvg-name="Tring Sport 3 FHD" group-title="Sports",Tring Sport 3 FHD
+URL_TS3
+#EXTINF:-1 tvg-name="Tring Sport 4 FHD" group-title="Sports",Tring Sport 4 FHD
+URL_TS4
