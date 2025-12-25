@@ -1,0 +1,405 @@
+#EXTM3U
+
+#EXTINF:-1,RTK 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22814&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,RTV 21 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=3832&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Klan Kosova FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=9455&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,KTV FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=9456&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,T7 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=23108&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Dukagjini FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4236&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,ATV FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=73298&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Kanal 10 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=53152&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tëvë 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=99872&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Klan HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=9454&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Top Channel FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4178&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Alsat M
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22783&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Vizion Plus 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=4214&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,First Channel 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=12044&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,RTSH 1
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=15632&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+
+#EXTINF:-1,Big Brother Kosova 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=89640&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Big Brother Kosova 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=89641&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Big Brother Albania 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=117771&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Big Brother Albania 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=117772&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,ALB USA
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=131571&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,X Music Hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22800&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=6260&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,STV Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=126259&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,TV OPOJA
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=16475&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,RTV Fontana
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=24860&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Dasma TV
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=7076&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tv Sharri
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=9368&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Top Estrada
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=12046&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Zico TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=23854&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Elrodi TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4235&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,TV Llapi
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=93094&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,MTV Kosova
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=12051&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, Dark Popullore
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115140&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Popullore
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22801&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, TV Dielli
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=19542&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Kafeneja Jone HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115134&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, Egjeli 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115135&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, E Humor 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=12050&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Premier
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=12031&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Premier 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=12030&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Premier 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=12029&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Premier 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22787&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=3820&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=3818&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Komedi
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=3821&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Autor
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=3803&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Thriller
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4193&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Dramë
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4194&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Gold
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=91872&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Film Max
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=91873&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Eurofilm
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=20191&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Stinët
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=17171&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,T
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=7055&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Kino 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28175&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Kino 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28176&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Kino 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28177&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4223&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Life
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4224&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Series
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4227&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Collection
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=139851&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Classic
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=139850&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring 3+
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4237&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Super
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4218&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Comedy
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=2054&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Novelas
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=93395&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Fantasy
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4230&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Turkish Story
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=136718&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Digi Gold 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=15778&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Digi Gold 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=15779&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Digi Gold 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=16814&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Digi Gold 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=16815&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, Tëvë Novela
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=116971&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, Dark Gold 1 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115136&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, Dark Gold 2 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115137&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+
+
+#EXTINF:-1, Dark Gold 3 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115138&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+
+#EXTINF:-1, Dark Gold 4 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=115139&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Sky Aksion HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=9134&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Sky  Komedi HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=9878&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Sky Novela
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=17181&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Pro 1 HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=137202&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Aksion
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22788&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, E Komedi 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22789&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1, E Dark
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22792&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Family
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22799&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Romance
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22794&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+
+#EXTINF:-1,E Drama
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22791&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Scyfy
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22793&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Thriller 
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22790&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Western
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22795&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Filma24
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=22815&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,E Aksion
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=12047&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Star Channel HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=9392&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,TDC
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=38606&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Kanal D Drama
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=56168&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring World
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4213&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Planet
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=6088&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Histori
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4228&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Living HD
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=9370&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Explorer Shkencë
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4203&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Explorer Natyra
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4202&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Explorer Histori
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4204&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Doku 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28178&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Doku 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28179&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tëvë Doku 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=116968&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tëvë Doku 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=116969&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Sky Planet
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=20189&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,National Geographic
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=3793&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Bang Bang
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=7062&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Çufo
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4208&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Tring
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=4215&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Kids
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=8773&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tip TV
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=7063&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 1 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4198&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22807&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 2 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=4199&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22808&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 3 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22809&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 4 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22810&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 5 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22811&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 6 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22812&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Super Sport 7 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=22813&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Sport 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28182&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Sport 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28183&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Sport 3 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=28184&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Sport 4 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=89864&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Sport 5 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=89865&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Art Sport 6 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=89866&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Sport News
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=8077&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Sport 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=8078&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Sport 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=8079&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Sport 3 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=8080&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,Tring Sport 4 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1a:79:ba:1f:7b&stream=8081&extension=ts&play_token=3lBs8j8cx6&sn2=
+
+#EXTINF:-1,RTSH Sport
+http://mag.cloudcdn.city:80/play/live.php?mac=00:1A:79:BA:1F:7B&stream=15635&extension=ts&play_token=3lBs8j8cx6&sn2=
