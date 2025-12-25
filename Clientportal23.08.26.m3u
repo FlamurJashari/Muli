@@ -1,5 +1,6 @@
 #EXTM3U
 
+# --- KANALET KRYESORE ---
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg",RTK 1 FHD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22814&extension=ts&play_token=G7XM5RshPB&sn2=
 
@@ -28,7 +29,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=53152
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=99872&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg",Klan HD
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=9454&extension=ts&play_token=G7XM5RshPB&sn2=
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=3800&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg",Top Channel FHD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4178&extension=ts&play_token=G7XM5RshPB&sn2=
@@ -42,6 +43,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4214&
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg",RTSH 1
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=15632&extension=ts&play_token=G7XM5RshPB&sn2=
 
+# --- SHOW & MUZIKË ---
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bigbrother.jpg",Big Brother Kosova 1 FHD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=89640&extension=ts&play_token=G7XM5RshPB&sn2=
 
@@ -53,9 +55,6 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=11777
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bigbrother.jpg",Big Brother Albania 2 FHD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=117772&extension=ts&play_token=G7XM5RshPB&sn2=
-
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtsh3.jpg",ALB USA
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=131571&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/xmusichits.jpg",X Music Hits
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22800&extension=ts&play_token=G7XM5RshPB&sn2=
@@ -93,7 +92,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=93094
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg",MTV Kosova
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12051&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/darkpopullore.jpg",Dark Popullore
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epopullore.jpg",Dark Popullore
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115140&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epopullore.jpg",E Popullore
@@ -102,6 +101,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22801
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvdielli.jpg",TV Dielli
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=19542&extension=ts&play_token=G7XM5RshPB&sn2=
 
+# --- HUMOR & SERIALE ---
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kafenejajone.jpg",Kafeneja Jone HD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115134&extension=ts&play_token=G7XM5RshPB&sn2=
 
@@ -111,6 +111,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=11513
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ehumor.jpg",E Humor 
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12050&extension=ts&play_token=G7XM5RshPB&sn2=
 
+# --- FILMA ---
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epremier.jpg",E Premier
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12031&extension=ts&play_token=G7XM5RshPB&sn2=
 
@@ -237,34 +238,25 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=17181
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/pro1.jpg",Pro 1 HD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=137202&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eaksion.jpg",E Aksion
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg",E Aksion
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22788&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ekomedi.jpg",E Komedi 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmkomedi.jpg",E Komedi 
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22789&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/edark.jpg",E Dark
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22792&extension=ts&play_token=G7XM5RshPB&sn2=
-
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/efamily.jpg",E Family
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22799&extension=ts&play_token=G7XM5RshPB&sn2=
-
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eromance.jpg",E Romance
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22794&extension=ts&play_token=G7XM5RshPB&sn2=
-
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/edrama.jpg",E Drama
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg",E Drama
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22791&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/escyfy.jpg",E Scyfy
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22793&extension=ts&play_token=G7XM5RshPB&sn2=
-
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ethriller.jpg",E Thriller 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg",E Thriller 
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22790&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ewestern.jpg",E Western
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg",E Scyfy
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22793&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg",E Western
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22795&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/efilma24.jpg",E Filma24
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmautor.jpg",E Filma24
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22815&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starchannel.jpg",Star Channel HD
@@ -276,6 +268,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=38606
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg",Kanal D Drama
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=56168&extension=ts&play_token=G7XM5RshPB&sn2=
 
+# --- DOKUMENTARË & KIDS ---
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringworld.jpg",Tring World
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4213&extension=ts&play_token=G7XM5RshPB&sn2=
 
@@ -330,6 +323,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=8773&
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg",Tip TV
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7063&extension=ts&play_token=G7XM5RshPB&sn2=
 
+# --- SPORT ---
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 HD
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4198&extension=ts&play_token=G7XM5RshPB&sn2=
 
