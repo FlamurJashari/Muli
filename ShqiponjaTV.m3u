@@ -1,0 +1,47 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg",RTK 1 FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJKln-OiyMhfx2iAesDcpht1_or9eASNmIPYXREGBoZCfES1xsP7Jx2F459H2cfRjaQ
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg",RTV 21 FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJPyEjGtFzEE-bgGjZzh3U7ncngx0IV8UliVPcpgUAptfHqTnmQrIYEtLq9qDKhzNxw
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg",Klan Kosova FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJOdBnlWCCh45zOMmsE_yQ5yZ5Qwz7hahZVA9UwWntU_RfT8o0JpetDCkwJHOVWJT4w
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg",KTV FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJFfznVlQC2P2UuoT_J-owEAqnj6G5qBmdRN0VsS8rsQNWjaogNMTis-Ty-LkNPxHXg
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg",T7 FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJNBkozYczSjDYdbRTu1_IYW8BPh08NHeGXRAAc1FkrLwSDqN6hnibVtp9VN4A75DcA
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg",Dukagjini FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJPuSVy8m025pI4396HZJlXFF4G1ISc94av1lxILfAd4MqsoiCsTAIM7yqr9Ped7hag
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/atval.jpg",ATV FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJKB-r7WZBZXaa7M9opgbKoUi5gmXdd3xP-ZKq70IKCkbhTVBgR7y06gDy55lU0QLxw
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg",Kanal 10 FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJELj9Y7yrL45_RJZBs_bAESb5NLzXPAUREFKV4qD8yK3Z2BmA6a8FrQhLVye8tk-Bw
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg",Tëvë 1 FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJCvqv-C0uDhwZS1L7Oax3kbwKAjQh83nZIhVgoKwHgDOFPgYKxkzsSoJ_wFeshlznQ
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg",Klan HD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJMgLKdB8lYERTUaAiA39XCPJFMQnO-MuaeghNS83zPlOixlqDX0Xh2vh8KrweUH3kA
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg",Top Channel FHD
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJEafoHDoDWLCzgbebpDv6cUzg9tJ5NQ0EY8JjZS2u7-PAzorWuRW72hru9wSi9xaxQ
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg",Alsat M
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJIO5YlFtjL5sUpERiAXIc21jNlAFQI8OaUdk6ofvtJs3KL7qEGYRzufgkFkNjYFA4w
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg",Vizion Plus 
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJKFcOHjCAx_SLpiySi3k4Nxxq8SEXmIw507mI50FCZl18jvRq7RBCdVWNcxtHW-5Jg
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg",First Channel 
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJKFcOHjCAx_SLpiySi3k4Nxxq8SEXmIw507mI50FCZl18jvRq7RBCdVWNcxtHW-5Jg
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg",RTSH 1
+http://cdntm.net:8080/play/LC_TQAJWnFnsWIGK56bI1YMMSxn0UGlxvc67myzYpHO5C4jnMXuTdRSbd5WTWCLpV1FL60nJFDybnW4PM4tjJGUpomdH0gCA5onTHtZSEaPMvRMSbVv-mFNvT1Vs5_99mz8vXaTMQ8VhssjsCuykZw
