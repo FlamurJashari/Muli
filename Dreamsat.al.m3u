@@ -326,9 +326,6 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=8773&
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg",Tip TV
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7063&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 HD
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4198&extension=ts&play_token=G7XM5RshPB&sn2=
-
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 FHD
 http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiGwdz3t-SHipKRHDgKCGu9YS9_eRomzc7NSVGKVfoKKjj1rhX-hyidzQ0JJClhiXI?ext=.ts
 
