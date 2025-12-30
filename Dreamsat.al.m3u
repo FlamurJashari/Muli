@@ -335,10 +335,7 @@ http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4215&
 http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=8773&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg",Tip TV
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7063&extension=ts&play_token=G7XM5RshPB&sn2=
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 HD
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4198&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 FHD
 http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiGwdz3t-SHipKRHDgKCGu9YS9_eRomzc7NSVGKVfoKKjj1rhX-hyidzQ0JJClhiXI?ext=.ts
@@ -372,9 +369,6 @@ http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AinjUkFwfw
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 6 FHD
 http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjCdLqKRaRWv_BKLii_UO_o58xdaL7beUzC8NK5gZsVNCNN2yeBCthyVYVQ4DCh6Jc?ext=.ts
-
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg",Tring Sport News
-http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=8077&extension=ts&play_token=G7XM5RshPB&sn2=
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg",Tring Sport 1 FHD
 http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjfnEgCws6zU2eiLyb2jxkjwMoMmsQOLTZ8bj17LZ83qewygxhUdZQjuMcZWDAioEY?ext=.ts
