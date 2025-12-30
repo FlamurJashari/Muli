@@ -1,0 +1,389 @@
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg",RTK 1 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiLHFY4lSqFxJx6qGo-z4BPAzCV072lttPqVB8DR6CZWi4S5ou4Nj63YKjc41PyPXY?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg",RTV 21 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Ai90eURcPUtZx6zB8msa1yXtUG1xYSQhYtaEXkq9sArllO4Ljk7e6vXH6HEHCr4dBs?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg",Klan Kosova FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Aj3WVLun-7hmfpjNs8T1U0wBOGPqBcld60wEZ4CEjHfQ4XBSPjLaMU16L2Xezz2WjE?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg",KTV FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjkzQbZStLGBaekVPdlCq3GLGhUtqD5WNahYJOqYcL8jEyUOGHIKZVzNlyyuvlffwA?ext=.ts
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg",Dukagjini FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AgBFbyh3ReUiFTRGJ6wat6cKW6isR50NVLf_Zs0g-KbKOomQADRSw0hqLYu0VzuW4k?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/atval.jpg",ATV FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiLStM6ySm6Cg-99nybFN080qVu8c2h4P9oU7WrXTuRTp9WKhX7sjATVNYBT4INBxs?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg",Kanal 10 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AgBFbyh3ReUiFTRGJ6wat6cKW6isR50NVLf_Zs0g-KbKOomQADRSw0hqLYu0VzuW4k?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg",Tëvë 1 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AisMOuku9XJw1mPSWtzk8wEd2U4tNCNwZ5mCBulZGghVb71r64jwxDdAoC1beW6Uro?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg",Klan HD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AhdtU3AZuTwurRCIe0iz2xl3DYKzdODWVQDG7VbBJh_MsLdGomgKqW_wLMM7ZuwQtk?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg",Top Channel FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjbgST5R5j6sm2Y-EvXS0RuDXaiJwlNuzfhJxFz5B2HHY4aKczwdB30rtByzkW7dv0?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg",Alsat M
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiF9XRpakV4xPCt_qtc_CwgLvsSyu8WcqvIGs-85fYUP1a5NNlkGymWzTpE20-yRQw?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg",Vizion Plus 
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiRbMtpDHc74yzx6fmCmKfCKI7Kwo6HPikTfjD3AAK0RTQLFZDVJoUVBQGYuYc9xPs?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg",First Channel 
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12044&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg",RTSH 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=15632&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bigbrother.jpg",Big Brother Kosova 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=89640&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bigbrother.jpg",Big Brother Kosova 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=89641&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bigbrother.jpg",Big Brother Albania 1 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=117771&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bigbrother.jpg",Big Brother Albania 2 FHD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=117772&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtsh3.jpg",ALB USA
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=131571&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/xmusichits.jpg",X Music Hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22800&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/folktv.jpg",Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=6260&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/stval.jpg",STV Folk
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=126259&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg",TV OPOJA
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=16475&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvfontana.jpg",RTV Fontana
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=24860&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg",Dasma TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7076&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg",Tv Sharri
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=9368&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg",Top Estrada
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12046&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/zicotv.jpg",Zico TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=23854&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/elroditv.jpg",Elrodi TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4235&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvllapi.jpg",TV Llapi
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=93094&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg",MTV Kosova
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12051&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/darkpopullore.jpg",Dark Popullore
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115140&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epopullore.jpg",E Popullore
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22801&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvdielli.jpg",TV Dielli
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=19542&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kafenejajone.jpg",Kafeneja Jone HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115134&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/egjeli.jpg",Egjeli 
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115135&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ehumor.jpg",E Humor 
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12050&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epremier.jpg",E Premier
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12031&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epremier.jpg",E Premier 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12030&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epremier.jpg",E Premier 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12029&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/epremier.jpg",E Premier 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22787&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg",Film Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=3820&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmhits.jpg",Film Hits
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=3818&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmkomedi.jpg",Film Komedi
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=3821&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmautor.jpg",Film Autor
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=3803&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg",Film Thriller
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4193&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg",Film Dramë
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4194&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg",Film Gold
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=91872&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/filmmax.jpg",Film Max
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=91873&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eurofilm.jpg",Eurofilm
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=20191&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/stinet.jpg",Stinët
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=17171&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ttv.jpg",T
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7055&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artkino.jpg",Art Kino 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=28175&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artkino.jpg",Art Kino 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=28176&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artkino.jpg",Art Kino 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=28177&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringaksion.jpg",Tring Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4223&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringlife.jpg",Tring Life
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4224&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringseries.jpg",Tring Series
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4227&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringcollection.jpg",Tring Collection
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=139851&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringclassic.jpg",Tring Classic
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=139850&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg",Tring 3+
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4237&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsuper.jpg",Tring Super
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4218&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringcomedy.jpg",Tring Comedy
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=2054&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringnovelas.jpg",Tring Novelas
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=93395&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringfantasy.jpg",Tring Fantasy
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4230&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringturkish.jpg",Tring Turkish Story
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=136718&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/digigold.jpg",Digi Gold 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=15778&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/digigold.jpg",Digi Gold 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=15779&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/digigold.jpg",Digi Gold 3
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=16814&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/digigold.jpg",Digi Gold 4
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=16815&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tevenovela.jpg",Tëvë Novela
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=116971&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/darkgold.jpg",Dark Gold 1 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115136&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/darkgold.jpg",Dark Gold 2 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115137&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/darkgold.jpg",Dark Gold 3 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115138&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/darkgold.jpg",Dark Gold 4 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=115139&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skyaksion.jpg",Sky Aksion HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=9134&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skykomedi.jpg",Sky  Komedi HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=9878&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skynovela.jpg",Sky Novela
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=17181&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/pro1.jpg",Pro 1 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=137202&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eaksion.jpg",E Aksion
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22788&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ekomedi.jpg",E Komedi 
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22789&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/edark.jpg",E Dark
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22792&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/efamily.jpg",E Family
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22799&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eromance.jpg",E Romance
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22794&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/edrama.jpg",E Drama
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22791&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/escyfy.jpg",E Scyfy
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22793&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ethriller.jpg",E Thriller 
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22790&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ewestern.jpg",E Western
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22795&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/efilma24.jpg",E Filma24
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=22815&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/eaksion.jpg",E Aksion (Extra)
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=12047&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/starchannel.jpg",Star Channel HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=9392&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tdc.jpg",TDC
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=38606&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg",Kanal D Drama
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=56168&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringworld.jpg",Tring World
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4213&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringplanet.jpg",Tring Planet
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=6088&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringhistori.jpg",Tring Histori
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4228&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringliving.jpg",Tring Living HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=9370&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg",Explorer Shkencë
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4203&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg",Explorer Natyra
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4202&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/explorerhistori.jpg",Explorer Histori
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4204&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artdoku.jpg",Art Doku 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=28178&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artdoku.jpg",Art Doku 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=28179&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tevedoku.jpg",Tëvë Doku 1
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=116968&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tevedoku.jpg",Tëvë Doku 2
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=116969&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skyplanet.jpg",Sky Planet
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=20189&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg",National Geographic
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=3793&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/bangbang.jpg",Bang Bang
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7062&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/cufo.jpg",Çufo
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4208&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringtring.jpg",Tring Tring
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4215&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringkids.jpg",Tring Kids
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=8773&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg",Tip TV
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=7063&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 HD
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=4198&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg",Super Sport 1 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiGwdz3t-SHipKRHDgKCGu9YS9_eRomzc7NSVGKVfoKKjj1rhX-hyidzQ0JJClhiXI?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg",Super Sport 2 HD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AgyMXeVEBqbOldCcXTbGA9CAcbCcNcvVcXQCVAhOr-cUE9TGq0mTaLu0-VS_DoozaE?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg",Super Sport 3 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Aguthajps4eMVPT81wXW3b4sBGKXWhiwXJSjY0wZGKxJ8yUAAsXcZUW8KEl5jBclZ0?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg",Super Sport 4 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AhGKMAnVF25z2536mfXBRXaxfvNS_k3bLfr1FwrcNi7b-AbXiouqNvqNsDrxBnNcfw?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg",Super Sport 5 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Aj1WAIkM0wJha1gtRJyWnA76BrPRWHMv4zUrW2Yoneen0niqPDrmC1sWoa7LbZa0rg?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 1 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AidrWPrhBwb8KN5t2Kor-Dv1CCjIPqNiwMdGV2AZJ4KWOqyFYAOjj2ZLthweCNEflI?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 2 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AhNz10u5jHO6SGoktLs-H7V2snSARjVTnx9Xj6TY6wglDXic-tqLCbF6Z9h_tkxvI4?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 3 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjELlZXe8TfdQtKkph1DGndxX3a96zNf0F9aoVNnJ5qpnoTWDIHL65datoa-EYxWbo?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 4 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Agipo984nVVmrkTHjwOK-NGcMlPuz5KOuBfq3O63ocSvA6IQCPrQ2bk7cDmQz0xZzs?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 5 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AinjUkFwfwFLgZRV1XOZR5Sqv2rzBpUFaSlk1DxtdvHfLjKfjZLo1Eo4gNMmZlUfQQ?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg",Art Sport 6 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjCdLqKRaRWv_BKLii_UO_o58xdaL7beUzC8NK5gZsVNCNN2yeBCthyVYVQ4DCh6Jc?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg",Tring Sport News
+http://mag.clientportal.link:80/play/live.php?mac=00:1A:79:60:0E:CB&stream=8077&extension=ts&play_token=G7XM5RshPB&sn2=
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg",Tring Sport 1 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AjfnEgCws6zU2eiLyb2jxkjwMoMmsQOLTZ8bj17LZ83qewygxhUdZQjuMcZWDAioEY?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg",Tring Sport 2 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9AiUQL1ezKyY5rX0TdV1aGB2r8LSZwkAmmrqMiP7O_WysJMu_rTbt6FktPZUjIpu4Ko?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg",Tring Sport 3 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Ahqz6OVKjQqjRl6IIAL6UmkopbCOgmvTab2eHL_gt-sp3uy4YutKBCHdefcNEnBLKU?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg",Tring Sport 4 FHD
+http://dreamsat.al:8000/play/f3FtfaUH4OwLePyCM8fIuL2fhxDAWWWY_GIXEJTG9Ag_zrDjyJEiGvi0g7qUv6tXLNMlOXq8bjLcTWhtgK5im7aioO6aU7GZQcCSSBRd06M?ext=.ts
