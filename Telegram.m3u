@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1,RTSH HD
+http://31.171.154.23:8005/play/s51
+#EXTINF:-1,RTSH 2 HD
+http://31.171.154.23:8005/play/s58
+#EXTINF:-1,RTSH 3
+http://31.171.154.23:8005/play/s53
+#EXTINF:-1,RTSH Sport HD
+http://31.171.154.23:8005/play/s60
+#EXTINF:-1,RTSH Shkolle HD
+http://31.171.154.23:8005/play/s50
+#EXTINF:-1,RTSH Agro
+http://31.171.154.23:8005/play/s47
+#EXTINF:-1,RTSH Femije
+http://31.171.154.23:8005/play/s54
+#EXTINF:-1,RTSH 24 HD
+http://31.171.154.23:8005/play/s52
+#EXTINF:-1,RTSH Film
+http://31.171.154.23:8005/play/s55
+#EXTINF:-1,RTSH Shqip
+http://31.171.154.23:8005/play/s48
+#EXTINF:-1,RTSH Muzike
+http://31.171.154.23:8005/play/s56
+#EXTINF:-1,RTSH Plus
+http://31.171.154.23:8005/play/s59
+#EXTINF:-1,RTSH Kuvend
+http://31.171.154.23:8005/play/s49
+#EXTINF:-1,RTK
+http://31.171.154.23:8005/play/s57
+#EXTINF:-1,Report TV (8004)
+http://31.171.154.23:8004/play/s43
+#EXTINF:-1,Club TV
+http://31.171.154.23:8004/play/s38
+#EXTINF:-1,FaxNews
+http://31.171.154.23:8004/play/s37
+#EXTINF:-1,IN TV
+http://31.171.154.23:8004/play/s96
+#EXTINF:-1,News 24 TV
+http://31.171.154.23:8004/play/s45
+#EXTINF:-1,Premium Channel
+http://31.171.154.23:8004/play/s40
+#EXTINF:-1,RTSH Gjirokastra
+http://31.171.154.23:8004/play/s46
+#EXTINF:-1,RTSH KORCA
+http://31.171.154.23:8004/play/s41
+#EXTINF:-1,RTSH Kukesi
+http://31.171.154.23:8004/play/s36
+#EXTINF:-1,RTSH Shkodra
+http://31.171.154.23:8004/play/s42
+#EXTINF:-1,Syri TV
+http://31.171.154.23:8004/play/s44
+#EXTINF:-1,TV Kukesi
+http://31.171.154.23:8004/play/s95
+#EXTINF:-1,TV SHIJAK
+http://31.171.154.23:8004/play/s39
+#EXTINF:-1,VizionPlus HD
+http://31.171.154.23:8003/play/s121
+#EXTINF:-1,3 Plus
+http://31.171.154.23:8003/play/s130
+#EXTINF:-1,Bubble
+http://31.171.154.23:8003/play/s105
+#EXTINF:-1,Canale 5 (8003)
+http://31.171.154.23:8003/play/s123
+#EXTINF:-1,FAX NEWS (8003)
+http://31.171.154.23:8003/play/s110
+#EXTINF:-1,Folk Plus
+http://31.171.154.23:8003/play/s126
+#EXTINF:-1,KIDS
+http://31.171.154.23:8003/play/s119
+#EXTINF:-1,KanalD Drama
+http://31.171.154.23:8003/play/s99
+#EXTINF:-1,Living HD
+http://31.171.154.23:8003/play/s113
+#EXTINF:-1,Rai 1
+http://31.171.154.23:8003/play/s103
+#EXTINF:-1,Report TV (8003)
+http://31.171.154.23:8003/play/s102
+#EXTINF:-1,Series HD
+http://31.171.154.23:8003/play/s127
+#EXTINF:-1,Smile
+http://31.171.154.23:8003/play/s117
+#EXTINF:-1,Tip TV
+http://31.171.154.23:8003/play/s120
+#EXTINF:-1,Tring Action HD
+http://31.171.154.23:8003/play/s124
+#EXTINF:-1,Tring Classic HD
+http://31.171.154.23:8003/play/s98
+#EXTINF:-1,Tring Collection HD
+http://31.171.154.23:8003/play/s125
+#EXTINF:-1,Tring Comedy
+http://31.171.154.23:8003/play/s112
+#EXTINF:-1,Tring Fantasy
+http://31.171.154.23:8003/play/s108
+#EXTINF:-1,Tring Festa HD
+http://31.171.154.23:8003/play/s97
+#EXTINF:-1,Tring Histori
+http://31.171.154.23:8003/play/s100
+#EXTINF:-1,Tring Life
+http://31.171.154.23:8003/play/s131
+#EXTINF:-1,Tring Novelas
+http://31.171.154.23:8003/play/s116
+#EXTINF:-1,Tring Planet
+http://31.171.154.23:8003/play/s101
+#EXTINF:-1,Tring Shqip
+http://31.171.154.23:8003/play/s118
+#EXTINF:-1,Tring Sport News
+http://31.171.154.23:8003/play/s106
+#EXTINF:-1,Tring Super HD
+http://31.171.154.23:8003/play/s107
+#EXTINF:-1,Tring Tring
+http://31.171.154.23:8003/play/s104
+#EXTINF:-1,Tring World
+http://31.171.154.23:8003/play/s129
+#EXTINF:-1,Tring Sport 1 HD
+http://31.171.154.23:8003/play/s122
+#EXTINF:-1,Tring Sport 2 HD
+http://31.171.154.23:8003/play/s111
+#EXTINF:-1,Tring Sport 3 HD
+http://31.171.154.23:8003/play/s128
+#EXTINF:-1,Tring Sport 4 HD
+http://31.171.154.23:8003/play/s115
+#EXTINF:-1,Tring Sport 5 HD
+http://31.171.154.23:8003/play/s109
+#EXTINF:-1,Turkish Stories
+http://31.171.154.23:8003/play/s114
+#EXTINF:-1,Top Channel HD
+http://31.171.154.23:8002/play/s14
+#EXTINF:-1,EXP shkence
+http://31.171.154.23:8002/play/s62
+#EXTINF:-1,EuroFilm
+http://31.171.154.23:8002/play/s64
+#EXTINF:-1,GOLD HD
+http://31.171.154.23:8002/play/s63
+#EXTINF:-1,Top News HD
+http://31.171.154.23:8002/play/s17
+#EXTINF:-1,24Kitchen
+http://31.171.154.23:8001/play/s78
+#EXTINF:-1,ABC HD (US)
+http://31.171.154.23:8001/play/s326
+#EXTINF:-1,Baby TV
+http://31.171.154.23:8001/play/s80
+#EXTINF:-1,Canale 5 (8001)
+http://31.171.154.23:8001/play/s81
+#EXTINF:-1,EXP natyra
+http://31.171.154.23:8001/play/s70
+#EXTINF:-1,EuroNews
+http://31.171.154.23:8001/play/s75
+#EXTINF:-1,Film Aksion HD
+http://31.171.154.23:8001/play/s79
+#EXTINF:-1,Film Komedi HD
+http://31.171.154.23:8001/play/s67
+#EXTINF:-1,Film Thriller
+http://31.171.154.23:8001/play/s76
+#EXTINF:-1,Italia 1
+http://31.171.154.23:8001/play/s66
+#EXTINF:-1,Junior TV
+http://31.171.154.23:8001/play/s77
+#EXTINF:-1,Nat Geo HD
+http://31.171.154.23:8001/play/s71
+#EXTINF:-1,Nickelodeon
+http://31.171.154.23:8001/play/s82
+#EXTINF:-1,Ora News HD
+http://31.171.154.23:8001/play/s65
+#EXTINF:-1,SS-1 HD
+http://31.171.154.23:8001/play/s69
+#EXTINF:-1,SS-2 HD
+http://31.171.154.23:8001/play/s72
+#EXTINF:-1,SS-3 HD
+http://31.171.154.23:8001/play/s73
+#EXTINF:-1,SS-4 HD
+http://31.171.154.23:8001/play/s74
+#EXTINF:-1,Stinet
+http://31.171.154.23:8001/play/s68
+#EXTINF:-1,Klan HD
+http://31.171.154.23:8000/play/s259
+#EXTINF:-1,Klan Plus HD
+http://31.171.154.23:8000/play/s262
+#EXTINF:-1,ABC HD (AL)
+http://31.171.154.23:8000/play/s260
+#EXTINF:-1,SCAN
+http://31.171.154.23:8000/play/s258
+#EXTINF:-1,Klan News
+http://31.171.154.23:8000/play/s261
+#EXTINF:-1,A2 CNN
+http://31.171.154.23:8000/play/s252
+#EXTINF:-1,Euronews Albania
+http://31.171.154.23:8000/play/s253
+#EXTINF:-1,SYRI HD
+http://31.171.154.23:8000/play/s257
+#EXTINF:-1,Klan Music
+http://31.171.154.23:8000/play/s256
+#EXTINF:-1,KLAN MACEDONIA
+http://31.171.154.23:8000/play/s263
+#EXTINF:-1,MCN TV HD
+http://31.171.154.23:8000/play/s251
+#EXTINF:-1,CNA TV
+http://31.171.154.23:8000/play/s254
+
+# --- SEKSIONI RADIO ---
+#EXTINF:-1,Club FM Radio
+http://31.171.154.23:8005/play/s88
+#EXTINF:-1,Radio Shkodra
+http://31.171.154.23:8005/play/s86
+#EXTINF:-1,Radio Gjirokastra
+http://31.171.154.23:8005/play/s84
+#EXTINF:-1,Radio Tirana 1
+http://31.171.154.23:8005/play/s91
+#EXTINF:-1,Radio Tirana 2
+http://31.171.154.23:8005/play/s93
+#EXTINF:-1,Radio Tirana 3
+http://31.171.154.23:8005/play/s90
+#EXTINF:-1,Radio Tirana Klasik
+http://31.171.154.23:8005/play/s85
+#EXTINF:-1,Radio Tirana Jazz
+http://31.171.154.23:8005/play/s89
+#EXTINF:-1,Radio Kukesi
+http://31.171.154.23:8005/play/s87
+#EXTINF:-1,Radio Tirana Internacional
+http://31.171.154.23:8005/play/s83
+#EXTINF:-1,Radio Tirana Femije
+http://31.171.154.23:8005/play/s92
+#EXTINF:-1,Radio Korca
+http://31.171.154.23:8005/play/s94
+#EXTINF:-1,My Music Radio
+http://31.171.154.23:8002/play/s18
+#EXTINF:-1,Top Albania Radio
+http://31.171.154.23:8002/play/s16
+#EXTINF:-1,Top Gold Radio
+http://31.171.154.23:8002/play/s12
+#EXTINF:-1,Radio KLAN
+http://31.171.154.23:8000/play/s264
+#EXTINF:-1,Radio SOL
+http://31.171.154.23:8000/play/s255
